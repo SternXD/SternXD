@@ -3,8 +3,8 @@
 - Ask me about anything about iOS or Windows and I **might** have an answer for ya.
 
 ### Communities 
-- 📫 If you want to contact me (or the SideStore team), join **SideTeam's Dev Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite) - otherwise, feel free to reach out to me on [`twitter.com/Stern_XD` (https://bit.ly/lonkelle-twitter), Or Discord at (.stern.)
-- 🌱 I help moderate the [`SideStore Discord](https://discord.gg/sidestore-949183273383395328)  and the [`AltStore / Delta Public Discord`](https://bit.ly/altmember-delta-general-chat)
+- If you want to contact me (or the SideStore team), join **SideTeam's Dev Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite) - otherwise, feel free to reach out to me on [`twitter.com/Stern_XD` (https://bit.ly/lonkelle-twitter), Or Discord at (.stern.)]
+- I help moderate the [`SideStore Discord](https://discord.gg/sidestore-949183273383395328)]  and the [`AltStore / Delta Public Discord`](https://bit.ly/altmember-delta-general-chat)]
   
 ### My Dev Report Card
 
