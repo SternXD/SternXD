@@ -10,4 +10,4 @@
 
 ### My Dev Report Card
 
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=SternXD&count_private=true&theme=dark&show_icons=true&icon_color=0BE7EE&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=SternXD&count_private=true&theme=dark&show_icons=true&icon_color=b693e5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
