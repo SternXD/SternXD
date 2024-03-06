@@ -6,7 +6,7 @@
 ### Some of the communities I sit in
 
 - If you want to contact me (or the SideStore team), join **SideTeam's Dev Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite) - otherwise, feel free to reach out to me on [`twitter.com/Stern_XD`](https://bit.ly/lonkelle-twitter), or Discord at ```.stern.```.
-- I help moderate the [`SideStore Discord`](https://discord.gg/sidestore-949183273383395328) and the [`AltStore / Delta Public Discord`](https://bit.ly/altmember-delta-general-chat).
+- I help moderate the [`SideStore Discord`](https://discord.gg/sidestore-949183273383395328), [`AltStore / Delta Public Discord`](https://bit.ly/altmember-delta-general-chat), and the [`Emulation Hub Discord`](https://discord.gg/emulation-hub-1007582798598647889).
 
 ### My Dev Report Card
 
