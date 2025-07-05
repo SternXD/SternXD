@@ -11,7 +11,7 @@ Hey, I'm SternXD — a developer focused on sideloading tech, emulation, and cro
 
 ## 💻 Tech Stack
 
-- **Languages:** Swift, C++, C, Objective-C, C# ||Rust soon:tm:||
+- **Languages:** Swift, C++, C, Objective-C, C#
 - **Frameworks & Platforms:** WinUI 3, UWP, .NET, WebView2, SDL2/SDL3, UIKit, SwiftUI
 - **Tools:** GitHub Actions, Xcode, Visual Studio, PowerShell, clang
 - **Target Platforms:** iOS, macOS, Xbox (UWP), Windows/Win32
