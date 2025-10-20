@@ -31,3 +31,11 @@ Hey, I'm SternXD - a developer focused on sideloading tech, emulation, and cross
 ## 📊 My Dev Report Card
 
 [![GitHub Activity](https://github-readme-stats.vercel.app/api?username=SternXD&count_private=true&theme=dark&show_icons=true&icon_color=b693e5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Contributions
+
+I have an auto-generated list of my public merged pull requests. It's updated nightly by GitHub Actions and published in the repository at [docs/contributions.md](docs/contributions.md).
+
+Click here to view: [Contributions](docs/contributions.md)
