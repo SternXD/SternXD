@@ -1,14 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **32**
+Total public PRs merged: **34**
 
 ---
 
-## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
-- [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [BPM: Add Network and HDD settings page](https://github.com/PCSX2/pcsx2/pull/13294) _(merged 2025-10-25)_
+- [FullscreenUI: Add footer for clearing bindings](https://github.com/PCSX2/pcsx2/pull/13418) _(merged 2025-10-24)_
 - [Qt/BPM: Improve memory card shutdown warning messages for clarity ](https://github.com/PCSX2/pcsx2/pull/13400) _(merged 2025-10-16)_
 - [Achievements: Harden RetroAchievements Hardcore Compliance](https://github.com/PCSX2/pcsx2/pull/13293) _(merged 2025-09-28)_
 - [FSUI: Fix regression allowing Save State load in Hardcore Mode via ESC menu](https://github.com/PCSX2/pcsx2/pull/13271) _(merged 2025-09-16)_
@@ -20,6 +19,9 @@ Total public PRs merged: **32**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
+- [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
 
 ## [Venomalia/UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput)
 - [README: Fix link to DolphinUWP in README](https://github.com/Venomalia/UniversalDynamicInput/pull/297) _(merged 2025-10-05)_
