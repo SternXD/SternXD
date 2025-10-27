@@ -1,9 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **34**
+Total public PRs merged: **35**
 
 ---
+
+## [ARMSX2/ARMSX2](https://github.com/ARMSX2/ARMSX2)
+- [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [BPM: Add Network and HDD settings page](https://github.com/PCSX2/pcsx2/pull/13294) _(merged 2025-10-25)_
