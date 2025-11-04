@@ -1,14 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **35**
+Total public PRs merged: **36**
 
 ---
 
-## [ARMSX2/ARMSX2](https://github.com/ARMSX2/ARMSX2)
-- [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [labeler: Add OSD / ImGui labeler](https://github.com/PCSX2/pcsx2/pull/13482) _(merged 2025-11-03)_
 - [BPM: Add Network and HDD settings page](https://github.com/PCSX2/pcsx2/pull/13294) _(merged 2025-10-25)_
 - [FullscreenUI: Add footer for clearing bindings](https://github.com/PCSX2/pcsx2/pull/13418) _(merged 2025-10-24)_
 - [Qt/BPM: Improve memory card shutdown warning messages for clarity ](https://github.com/PCSX2/pcsx2/pull/13400) _(merged 2025-10-16)_
@@ -22,6 +20,9 @@ Total public PRs merged: **35**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [ARMSX2/ARMSX2](https://github.com/ARMSX2/ARMSX2)
+- [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
