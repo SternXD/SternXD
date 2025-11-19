@@ -1,9 +1,17 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **36**
+Total public PRs merged: **39**
 
 ---
+
+## [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers)
+- [docs: Add ARMSX2 driver installation instructions and images to documentation](https://github.com/K11MCH1/AdrenoToolsDrivers/pull/63) _(merged 2025-11-19)_
+
+## [ARMSX2/ARMSX2](https://github.com/ARMSX2/ARMSX2)
+- [gitsubmodules: Add libadrenotools submodule](https://github.com/ARMSX2/ARMSX2/pull/66) _(merged 2025-11-19)_
+- [Android: Implement GPU Driver Manager with custom driver support](https://github.com/ARMSX2/ARMSX2/pull/65) _(merged 2025-11-19)_
+- [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [labeler: Add OSD / ImGui labeler](https://github.com/PCSX2/pcsx2/pull/13482) _(merged 2025-11-03)_
@@ -20,9 +28,6 @@ Total public PRs merged: **36**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
-
-## [ARMSX2/ARMSX2](https://github.com/ARMSX2/ARMSX2)
-- [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
