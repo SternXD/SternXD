@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **39**
+Total public PRs merged: **40**
 
 ---
 
@@ -14,6 +14,7 @@ Total public PRs merged: **39**
 - [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [BPM: Add custom background image support](https://github.com/PCSX2/pcsx2/pull/13410) _(merged 2025-11-19)_
 - [labeler: Add OSD / ImGui labeler](https://github.com/PCSX2/pcsx2/pull/13482) _(merged 2025-11-03)_
 - [BPM: Add Network and HDD settings page](https://github.com/PCSX2/pcsx2/pull/13294) _(merged 2025-10-25)_
 - [FullscreenUI: Add footer for clearing bindings](https://github.com/PCSX2/pcsx2/pull/13418) _(merged 2025-10-24)_
