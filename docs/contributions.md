@@ -1,19 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **40**
+Total public PRs merged: **42**
 
 ---
 
-## [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers)
-- [docs: Add ARMSX2 driver installation instructions and images to documentation](https://github.com/K11MCH1/AdrenoToolsDrivers/pull/63) _(merged 2025-11-19)_
-
-## [ARMSX2/ARMSX2](https://github.com/ARMSX2/ARMSX2)
-- [gitsubmodules: Add libadrenotools submodule](https://github.com/ARMSX2/ARMSX2/pull/66) _(merged 2025-11-19)_
-- [Android: Implement GPU Driver Manager with custom driver support](https://github.com/ARMSX2/ARMSX2/pull/65) _(merged 2025-11-19)_
-- [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Allow pause menu to wrap around](https://github.com/PCSX2/pcsx2/pull/13570) _(merged 2025-11-24)_
+- [Achievements/Qt: Show success feedback on RetroAchievements login](https://github.com/PCSX2/pcsx2/pull/13567) _(merged 2025-11-24)_
 - [BPM: Add custom background image support](https://github.com/PCSX2/pcsx2/pull/13410) _(merged 2025-11-19)_
 - [labeler: Add OSD / ImGui labeler](https://github.com/PCSX2/pcsx2/pull/13482) _(merged 2025-11-03)_
 - [BPM: Add Network and HDD settings page](https://github.com/PCSX2/pcsx2/pull/13294) _(merged 2025-10-25)_
@@ -29,6 +23,14 @@ Total public PRs merged: **40**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers)
+- [docs: Add ARMSX2 driver installation instructions and images to documentation](https://github.com/K11MCH1/AdrenoToolsDrivers/pull/63) _(merged 2025-11-19)_
+
+## [ARMSX2/ARMSX2](https://github.com/ARMSX2/ARMSX2)
+- [gitsubmodules: Add libadrenotools submodule](https://github.com/ARMSX2/ARMSX2/pull/66) _(merged 2025-11-19)_
+- [Android: Implement GPU Driver Manager with custom driver support](https://github.com/ARMSX2/ARMSX2/pull/65) _(merged 2025-11-19)_
+- [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
