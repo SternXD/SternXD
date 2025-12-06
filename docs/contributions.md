@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **43**
+Total public PRs merged: **44**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/13615) _(merged 2025-12-05)_
 - [GS: Add texture replacement dump/load indicators to OSD](https://github.com/PCSX2/pcsx2/pull/13590) _(merged 2025-12-02)_
 - [FullscreenUI: Allow pause menu to wrap around](https://github.com/PCSX2/pcsx2/pull/13570) _(merged 2025-11-24)_
 - [Achievements/Qt: Show success feedback on RetroAchievements login](https://github.com/PCSX2/pcsx2/pull/13567) _(merged 2025-11-24)_
