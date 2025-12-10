@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **45**
+Total public PRs merged: **46**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Achievements: Fix leaderboard headers and selection focus](https://github.com/PCSX2/pcsx2/pull/13571) _(merged 2025-12-09)_
 - [Qt: Fix status bar widgets being cut off with longer translations](https://github.com/PCSX2/pcsx2/pull/13569) _(merged 2025-12-06)_
 - [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/13615) _(merged 2025-12-05)_
 - [GS: Add texture replacement dump/load indicators to OSD](https://github.com/PCSX2/pcsx2/pull/13590) _(merged 2025-12-02)_
