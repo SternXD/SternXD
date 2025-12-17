@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **48**
+Total public PRs merged: **49**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Qt: Add RA Logo to Achievement Login Dialog](https://github.com/PCSX2/pcsx2/pull/13718) _(merged 2025-12-17)_
 - [FSUI/Qt: Add Center/Tile background modes and remove redundant Qt null checks](https://github.com/PCSX2/pcsx2/pull/13564) _(merged 2025-12-14)_
 - [Qt/FSUI: Add language flag icons to settings and setup](https://github.com/PCSX2/pcsx2/pull/13574) _(merged 2025-12-11)_
 - [Achievements: Fix leaderboard headers and selection focus](https://github.com/PCSX2/pcsx2/pull/13571) _(merged 2025-12-09)_
