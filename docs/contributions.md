@@ -1,9 +1,17 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **49**
+Total public PRs merged: **52**
 
 ---
+
+## [libretro/RetroArch](https://github.com/libretro/RetroArch)
+- [UWP: Update x64 Mesa Binaries](https://github.com/libretro/RetroArch/pull/18568) _(merged 2026-01-02)_
+- [MSVC: Fix menu and achievement sounds on MSVC builds](https://github.com/libretro/RetroArch/pull/18560) _(merged 2026-01-01)_
+- [UWP: Bump version to 1.22.2](https://github.com/libretro/RetroArch/pull/18559) _(merged 2026-01-01)_
+- [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
+- [UWP: Update x64 ANGLE Binaries](https://github.com/libretro/RetroArch/pull/17681) _(merged 2025-03-13)_
+- [UWP: Update invalid pfx key](https://github.com/libretro/RetroArch/pull/17679) _(merged 2025-03-13)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [Qt: Add RA Logo to Achievement Login Dialog](https://github.com/PCSX2/pcsx2/pull/13718) _(merged 2025-12-17)_
@@ -48,11 +56,6 @@ Total public PRs merged: **49**
 ## [SternXD/devmodewiki](https://github.com/SternXD/devmodewiki)
 - [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/SternXD/devmodewiki/pull/5) _(merged 2025-09-25)_
 - [wiki: Add admonitions for all guides](https://github.com/SternXD/devmodewiki/pull/3) _(merged 2025-09-24)_
-
-## [libretro/RetroArch](https://github.com/libretro/RetroArch)
-- [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
-- [UWP: Update x64 ANGLE Binaries](https://github.com/libretro/RetroArch/pull/17681) _(merged 2025-03-13)_
-- [UWP: Update invalid pfx key](https://github.com/libretro/RetroArch/pull/17679) _(merged 2025-03-13)_
 
 ## [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
 - [feat: Add code and formatting guidelines](https://github.com/SideStore/SideStore-Docs/pull/156) _(merged 2025-09-19)_
