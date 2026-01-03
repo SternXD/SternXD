@@ -1,12 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **52**
+Total public PRs merged: **53**
 
 ---
 
 ## [libretro/RetroArch](https://github.com/libretro/RetroArch)
 - [UWP: Update x64 Mesa Binaries](https://github.com/libretro/RetroArch/pull/18568) _(merged 2026-01-02)_
+- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/libretro/RetroArch/pull/18558) _(merged 2026-01-02)_
 - [MSVC: Fix menu and achievement sounds on MSVC builds](https://github.com/libretro/RetroArch/pull/18560) _(merged 2026-01-01)_
 - [UWP: Bump version to 1.22.2](https://github.com/libretro/RetroArch/pull/18559) _(merged 2026-01-01)_
 - [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
