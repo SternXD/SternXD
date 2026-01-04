@@ -1,20 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **53**
+Total public PRs merged: **55**
 
 ---
 
-## [libretro/RetroArch](https://github.com/libretro/RetroArch)
-- [UWP: Update x64 Mesa Binaries](https://github.com/libretro/RetroArch/pull/18568) _(merged 2026-01-02)_
-- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/libretro/RetroArch/pull/18558) _(merged 2026-01-02)_
-- [MSVC: Fix menu and achievement sounds on MSVC builds](https://github.com/libretro/RetroArch/pull/18560) _(merged 2026-01-01)_
-- [UWP: Bump version to 1.22.2](https://github.com/libretro/RetroArch/pull/18559) _(merged 2026-01-01)_
-- [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
-- [UWP: Update x64 ANGLE Binaries](https://github.com/libretro/RetroArch/pull/17681) _(merged 2025-03-13)_
-- [UWP: Update invalid pfx key](https://github.com/libretro/RetroArch/pull/17679) _(merged 2025-03-13)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Update auto mapping to include device names with display names](https://github.com/PCSX2/pcsx2/pull/13773) _(merged 2026-01-04)_
 - [Qt: Add RA Logo to Achievement Login Dialog](https://github.com/PCSX2/pcsx2/pull/13718) _(merged 2025-12-17)_
 - [FSUI/Qt: Add Center/Tile background modes and remove redundant Qt null checks](https://github.com/PCSX2/pcsx2/pull/13564) _(merged 2025-12-14)_
 - [Qt/FSUI: Add language flag icons to settings and setup](https://github.com/PCSX2/pcsx2/pull/13574) _(merged 2025-12-11)_
@@ -39,6 +31,16 @@ Total public PRs merged: **53**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [libretro/RetroArch](https://github.com/libretro/RetroArch)
+- [UWP: Directly add cppwinrt to fix issues related to nuget restore](https://github.com/libretro/RetroArch/pull/18572) _(merged 2026-01-03)_
+- [UWP: Update x64 Mesa Binaries](https://github.com/libretro/RetroArch/pull/18568) _(merged 2026-01-02)_
+- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/libretro/RetroArch/pull/18558) _(merged 2026-01-02)_
+- [MSVC: Fix menu and achievement sounds on MSVC builds](https://github.com/libretro/RetroArch/pull/18560) _(merged 2026-01-01)_
+- [UWP: Bump version to 1.22.2](https://github.com/libretro/RetroArch/pull/18559) _(merged 2026-01-01)_
+- [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
+- [UWP: Update x64 ANGLE Binaries](https://github.com/libretro/RetroArch/pull/17681) _(merged 2025-03-13)_
+- [UWP: Update invalid pfx key](https://github.com/libretro/RetroArch/pull/17679) _(merged 2025-03-13)_
 
 ## [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers)
 - [docs: Add ARMSX2 driver installation instructions and images to documentation](https://github.com/K11MCH1/AdrenoToolsDrivers/pull/63) _(merged 2025-11-19)_
