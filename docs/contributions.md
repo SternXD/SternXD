@@ -1,9 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **55**
+Total public PRs merged: **56**
 
 ---
+
+## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
+- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/hrydgard/ppsspp/pull/21100) _(merged 2026-01-04)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [FullscreenUI: Update auto mapping to include device names with display names](https://github.com/PCSX2/pcsx2/pull/13773) _(merged 2026-01-04)_
