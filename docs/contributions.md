@@ -1,14 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **56**
+Total public PRs merged: **57**
 
 ---
 
-## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
-- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/hrydgard/ppsspp/pull/21100) _(merged 2026-01-04)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [GameDB: Add post-bloom alignment and native scaling for Urban Reign](https://github.com/PCSX2/pcsx2/pull/13801) _(merged 2026-01-10)_
 - [FullscreenUI: Update auto mapping to include device names with display names](https://github.com/PCSX2/pcsx2/pull/13773) _(merged 2026-01-04)_
 - [Qt: Add RA Logo to Achievement Login Dialog](https://github.com/PCSX2/pcsx2/pull/13718) _(merged 2025-12-17)_
 - [FSUI/Qt: Add Center/Tile background modes and remove redundant Qt null checks](https://github.com/PCSX2/pcsx2/pull/13564) _(merged 2025-12-14)_
@@ -34,6 +32,9 @@ Total public PRs merged: **56**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
+- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/hrydgard/ppsspp/pull/21100) _(merged 2026-01-04)_
 
 ## [libretro/RetroArch](https://github.com/libretro/RetroArch)
 - [UWP: Directly add cppwinrt to fix issues related to nuget restore](https://github.com/libretro/RetroArch/pull/18572) _(merged 2026-01-03)_
