@@ -1,9 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **57**
+Total public PRs merged: **58**
 
 ---
+
+## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
+- [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
+- [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [GameDB: Add post-bloom alignment and native scaling for Urban Reign](https://github.com/PCSX2/pcsx2/pull/13801) _(merged 2026-01-10)_
@@ -83,9 +87,6 @@ Total public PRs merged: **57**
 
 ## [xboxoneresearch/XBOX_Linux](https://github.com/xboxoneresearch/XBOX_Linux)
 - [[FEAT:] Add GitHub Workflow, and Update WebView2 NuGet package.](https://github.com/xboxoneresearch/XBOX_Linux/pull/1) _(merged 2024-07-30)_
-
-## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
-- [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
 
 ## [EmuDeck/emudeck.github.io](https://github.com/EmuDeck/emudeck.github.io)
 - [Fix typo in the supported emulators section.](https://github.com/EmuDeck/emudeck.github.io/pull/30) _(merged 2024-06-28)_
