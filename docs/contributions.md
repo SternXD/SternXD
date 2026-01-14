@@ -1,15 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **58**
+Total public PRs merged: **60**
 
 ---
 
-## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
-- [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
-- [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
+- [FullscreenUI: Remove unnecessary menu scrollbars, standardize dialogs, and improve textboxes](https://github.com/PCSX2/pcsx2/pull/13810) _(merged 2026-01-14)_
 - [GameDB: Add post-bloom alignment and native scaling for Urban Reign](https://github.com/PCSX2/pcsx2/pull/13801) _(merged 2026-01-10)_
 - [FullscreenUI: Update auto mapping to include device names with display names](https://github.com/PCSX2/pcsx2/pull/13773) _(merged 2026-01-04)_
 - [Qt: Add RA Logo to Achievement Login Dialog](https://github.com/PCSX2/pcsx2/pull/13718) _(merged 2025-12-17)_
@@ -36,6 +34,10 @@ Total public PRs merged: **58**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
+- [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
+- [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
 
 ## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
 - [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/hrydgard/ppsspp/pull/21100) _(merged 2026-01-04)_
