@@ -1,12 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **60**
+Total public PRs merged: **61**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
+- [Copyright: Change year from 2002-2025 to 2002-2026](https://github.com/PCSX2/pcsx2/pull/13818) _(merged 2026-01-14)_
 - [FullscreenUI: Remove unnecessary menu scrollbars, standardize dialogs, and improve textboxes](https://github.com/PCSX2/pcsx2/pull/13810) _(merged 2026-01-14)_
 - [GameDB: Add post-bloom alignment and native scaling for Urban Reign](https://github.com/PCSX2/pcsx2/pull/13801) _(merged 2026-01-10)_
 - [FullscreenUI: Update auto mapping to include device names with display names](https://github.com/PCSX2/pcsx2/pull/13773) _(merged 2026-01-04)_
