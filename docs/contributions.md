@@ -1,9 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **61**
+Total public PRs merged: **62**
 
 ---
+
+## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
