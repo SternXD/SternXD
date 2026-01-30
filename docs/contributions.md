@@ -1,14 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **62**
+Total public PRs merged: **63**
 
 ---
 
-## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
-- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Extract Settings into separate source and add internal header](https://github.com/PCSX2/pcsx2/pull/13821) _(merged 2026-01-29)_
 - [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
 - [Copyright: Change year from 2002-2025 to 2002-2026](https://github.com/PCSX2/pcsx2/pull/13818) _(merged 2026-01-14)_
 - [FullscreenUI: Remove unnecessary menu scrollbars, standardize dialogs, and improve textboxes](https://github.com/PCSX2/pcsx2/pull/13810) _(merged 2026-01-14)_
@@ -38,6 +36,9 @@ Total public PRs merged: **62**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
 - [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
