@@ -1,9 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **63**
+Total public PRs merged: **64**
 
 ---
+
+## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
+- [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [FullscreenUI: Extract Settings into separate source and add internal header](https://github.com/PCSX2/pcsx2/pull/13821) _(merged 2026-01-29)_
