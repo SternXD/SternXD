@@ -1,9 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **64**
+Total public PRs merged: **65**
 
 ---
+
+## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
+- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
 
 ## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
 - [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
