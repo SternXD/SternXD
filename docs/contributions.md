@@ -1,17 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **65**
+Total public PRs merged: **66**
 
 ---
 
-## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
-- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
-
-## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
-- [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Achievements: Various visual improvements to Achievements menu](https://github.com/PCSX2/pcsx2/pull/13926) _(merged 2026-02-09)_
 - [FullscreenUI: Extract Settings into separate source and add internal header](https://github.com/PCSX2/pcsx2/pull/13821) _(merged 2026-01-29)_
 - [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
 - [Copyright: Change year from 2002-2025 to 2002-2026](https://github.com/PCSX2/pcsx2/pull/13818) _(merged 2026-01-14)_
@@ -42,6 +37,12 @@ Total public PRs merged: **65**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
+- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
+
+## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
+- [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
 
 ## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
 - [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
