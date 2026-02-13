@@ -1,9 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **66**
+Total public PRs merged: **67**
 
 ---
+
+## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
+- [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
+- [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [Achievements: Various visual improvements to Achievements menu](https://github.com/PCSX2/pcsx2/pull/13926) _(merged 2026-02-09)_
@@ -71,9 +75,6 @@ Total public PRs merged: **66**
 - [gitsubmodules: Add libadrenotools submodule](https://github.com/ARMSX2/ARMSX2/pull/66) _(merged 2025-11-19)_
 - [Android: Implement GPU Driver Manager with custom driver support](https://github.com/ARMSX2/ARMSX2/pull/65) _(merged 2025-11-19)_
 - [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
-
-## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
-- [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
 
 ## [Venomalia/UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput)
 - [README: Fix link to DolphinUWP in README](https://github.com/Venomalia/UniversalDynamicInput/pull/297) _(merged 2025-10-05)_
