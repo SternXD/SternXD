@@ -1,15 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **67**
+Total public PRs merged: **68**
 
 ---
 
-## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
-- [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
-- [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Achievements: Fix Active Challenges bucket with subsets](https://github.com/PCSX2/pcsx2/pull/13998) _(merged 2026-02-15)_
 - [Achievements: Various visual improvements to Achievements menu](https://github.com/PCSX2/pcsx2/pull/13926) _(merged 2026-02-09)_
 - [FullscreenUI: Extract Settings into separate source and add internal header](https://github.com/PCSX2/pcsx2/pull/13821) _(merged 2026-01-29)_
 - [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
@@ -41,6 +38,10 @@ Total public PRs merged: **67**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
+- [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
+- [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
 
 ## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
 - [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
