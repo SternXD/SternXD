@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **68**
+Total public PRs merged: **69**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [USB: Implement EyeToy camera support on macOS](https://github.com/PCSX2/pcsx2/pull/13974) _(merged 2026-02-16)_
 - [Achievements: Fix Active Challenges bucket with subsets](https://github.com/PCSX2/pcsx2/pull/13998) _(merged 2026-02-15)_
 - [Achievements: Various visual improvements to Achievements menu](https://github.com/PCSX2/pcsx2/pull/13926) _(merged 2026-02-09)_
 - [FullscreenUI: Extract Settings into separate source and add internal header](https://github.com/PCSX2/pcsx2/pull/13821) _(merged 2026-01-29)_
