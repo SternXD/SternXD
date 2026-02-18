@@ -1,9 +1,14 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **69**
+Total public PRs merged: **70**
 
 ---
+
+## [SternXD/devmodewiki](https://github.com/SternXD/devmodewiki)
+- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/SternXD/devmodewiki/pull/8) _(merged 2026-02-17)_
+- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/SternXD/devmodewiki/pull/5) _(merged 2025-09-25)_
+- [wiki: Add admonitions for all guides](https://github.com/SternXD/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [USB: Implement EyeToy camera support on macOS](https://github.com/PCSX2/pcsx2/pull/13974) _(merged 2026-02-16)_
@@ -80,10 +85,6 @@ Total public PRs merged: **69**
 
 ## [Venomalia/UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput)
 - [README: Fix link to DolphinUWP in README](https://github.com/Venomalia/UniversalDynamicInput/pull/297) _(merged 2025-10-05)_
-
-## [SternXD/devmodewiki](https://github.com/SternXD/devmodewiki)
-- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/SternXD/devmodewiki/pull/5) _(merged 2025-09-25)_
-- [wiki: Add admonitions for all guides](https://github.com/SternXD/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
 - [feat: Add code and formatting guidelines](https://github.com/SideStore/SideStore-Docs/pull/156) _(merged 2025-09-19)_
