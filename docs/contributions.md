@@ -1,11 +1,19 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **73**
+Total public PRs merged: **75**
 
 ---
 
+## [SternXD/devmodewiki](https://github.com/SternXD/devmodewiki)
+- [docs: Make PPSSPP Guide more clear](https://github.com/SternXD/devmodewiki/pull/12) _(merged 2026-03-11)_
+- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/SternXD/devmodewiki/pull/11) _(merged 2026-02-25)_
+- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/SternXD/devmodewiki/pull/8) _(merged 2026-02-17)_
+- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/SternXD/devmodewiki/pull/5) _(merged 2025-09-25)_
+- [wiki: Add admonitions for all guides](https://github.com/SternXD/devmodewiki/pull/3) _(merged 2025-09-24)_
+
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [GSRunner: Fix gsrunner ImGui fonts and host stubs](https://github.com/PCSX2/pcsx2/pull/14123) _(merged 2026-03-11)_
 - [VMManager: Show OSD warning when controller 1 has no input bindings configured](https://github.com/PCSX2/pcsx2/pull/14088) _(merged 2026-03-05)_
 - [3rdparty: Update ImGui to v1.92.6](https://github.com/PCSX2/pcsx2/pull/14027) _(merged 2026-02-22)_
 - [USB: Implement EyeToy camera support on macOS](https://github.com/PCSX2/pcsx2/pull/13974) _(merged 2026-02-16)_
@@ -41,12 +49,6 @@ Total public PRs merged: **73**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
-
-## [SternXD/devmodewiki](https://github.com/SternXD/devmodewiki)
-- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/SternXD/devmodewiki/pull/11) _(merged 2026-02-25)_
-- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/SternXD/devmodewiki/pull/8) _(merged 2026-02-17)_
-- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/SternXD/devmodewiki/pull/5) _(merged 2025-09-25)_
-- [wiki: Add admonitions for all guides](https://github.com/SternXD/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
