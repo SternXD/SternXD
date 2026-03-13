@@ -1,9 +1,32 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **75**
+Total public PRs merged: **96**
 
 ---
+
+## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Qt: multiple saves/filter out non existent saves ](https://github.com/PCSX2/myMCpp/pull/29) _(merged 2026-03-12)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/24) _(merged 2026-03-12)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/23) _(merged 2026-03-12)_
+- [Qt: Allow locking toolbar to not move](https://github.com/PCSX2/myMCpp/pull/22) _(merged 2026-03-12)_
+- [gitattributes: Add .gitattributes file to normalize text files and set line endings](https://github.com/PCSX2/myMCpp/pull/21) _(merged 2026-03-12)_
+- [Core/Qt: Card Info/Rename/timestamp QoL improvements](https://github.com/PCSX2/myMCpp/pull/20) _(merged 2026-03-11)_
+- [Qt: Add camera controls to IconWidget](https://github.com/PCSX2/myMCpp/pull/19) _(merged 2026-03-11)_
+- [Renderer/VK: Enable Vulkan on macOS via MoltenVK](https://github.com/PCSX2/myMCpp/pull/18) _(merged 2026-03-06)_
+- [Renderer/MTL: fix Metal renderer pipeline, resource handling, and cleanup](https://github.com/PCSX2/myMCpp/pull/17) _(merged 2026-03-06)_
+- [chore: format code, remove unnecessary build scripts, and update docs](https://github.com/PCSX2/myMCpp/pull/16) _(merged 2026-03-05)_
+- [Core: Fix ECC spare size offset and update ECC tool label dynamically](https://github.com/PCSX2/myMCpp/pull/15) _(merged 2026-03-04)_
+- [Core: Auto detect raw dump memory cards without ECC spare data](https://github.com/PCSX2/myMCpp/pull/14) _(merged 2026-03-04)_
+- [common/sjis: Replace manual normalization table with utf8proc NFKC](https://github.com/PCSX2/myMCpp/pull/13) _(merged 2026-03-04)_
+- [Build/Renderer/Qt: MSBuild solution, VSync support, settings UI rework](https://github.com/PCSX2/myMCpp/pull/12) _(merged 2026-03-04)_
+- [Docs/Renderer/Qt/CI: QoL Fixes/changes](https://github.com/PCSX2/myMCpp/pull/11) _(merged 2026-02-23)_
+- [CI/labeler: Add build scripts and labeler](https://github.com/PCSX2/myMCpp/pull/9) _(merged 2025-12-21)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/8) _(merged 2025-12-21)_
+- [Qt: Make strings translatable](https://github.com/PCSX2/myMCpp/pull/6) _(merged 2025-12-21)_
+- [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
+- [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
 
 ## [SternXD/devmodewiki](https://github.com/SternXD/devmodewiki)
 - [docs: Make PPSSPP Guide more clear](https://github.com/SternXD/devmodewiki/pull/12) _(merged 2026-03-11)_
