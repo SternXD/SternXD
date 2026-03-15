@@ -1,11 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **96**
+Total public PRs merged: **98**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Formats: Treat .psu as EMS and tolerate PSU subdirs](https://github.com/PCSX2/myMCpp/pull/38) _(merged 2026-03-14)_
+- [Formats/Qt: Fix mass export remove dead code and add file names dialog](https://github.com/PCSX2/myMCpp/pull/35) _(merged 2026-03-14)_
 - [Qt: multiple saves/filter out non existent saves ](https://github.com/PCSX2/myMCpp/pull/29) _(merged 2026-03-12)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/24) _(merged 2026-03-12)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/23) _(merged 2026-03-12)_
