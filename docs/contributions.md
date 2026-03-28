@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **104**
+Total public PRs merged: **105**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Renderer/Vulkan: fix validation errors and modernize API usage](https://github.com/PCSX2/myMCpp/pull/47) _(merged 2026-03-27)_
 - [Qt: Use existing card size when formatting](https://github.com/PCSX2/myMCpp/pull/45) _(merged 2026-03-26)_
 - [CI: Bring back nightly-YYYYMMDD](https://github.com/PCSX2/myMCpp/pull/43) _(merged 2026-03-22)_
 - [CI/Qt: Update repository links and CI configuration](https://github.com/PCSX2/myMCpp/pull/42) _(merged 2026-03-22)_
