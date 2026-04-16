@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **106**
+Total public PRs merged: **107**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Various improvements](https://github.com/PCSX2/pcsx2/pull/14282) _(merged 2026-04-15)_
 - [Qt: Add RetroAchievements to Setup Wizard](https://github.com/PCSX2/pcsx2/pull/14284) _(merged 2026-04-13)_
 - [OSD: Use standard font for input overlay](https://github.com/PCSX2/pcsx2/pull/14202) _(merged 2026-03-25)_
 - [Qt/FullscreenUI/ImGui: OSD Dedicated tab, custom fonts, margins, and Select/Deselect All](https://github.com/PCSX2/pcsx2/pull/14127) _(merged 2026-03-19)_
