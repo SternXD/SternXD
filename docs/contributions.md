@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **107**
+Total public PRs merged: **108**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Qt: Add missing winwil include path](https://github.com/PCSX2/pcsx2/pull/14321) _(merged 2026-04-18)_
 - [FullscreenUI: Various improvements](https://github.com/PCSX2/pcsx2/pull/14282) _(merged 2026-04-15)_
 - [Qt: Add RetroAchievements to Setup Wizard](https://github.com/PCSX2/pcsx2/pull/14284) _(merged 2026-04-13)_
 - [OSD: Use standard font for input overlay](https://github.com/PCSX2/pcsx2/pull/14202) _(merged 2026-03-25)_
