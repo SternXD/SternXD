@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **92**
+Total public PRs merged: **94**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Qt/Vulkan: Keep Qt usage only in ui project and make Vulkan validation optional](https://github.com/PCSX2/myMCpp/pull/52) _(merged 2026-04-29)_
 - [Renderer: Fix icon texture OOB crash when switching saves](https://github.com/PCSX2/myMCpp/pull/51) _(merged 2026-04-26)_
 - [Renderer/Vulkan: fix validation errors and modernize API usage](https://github.com/PCSX2/myMCpp/pull/47) _(merged 2026-03-27)_
 - [Qt: Use existing card size when formatting](https://github.com/PCSX2/myMCpp/pull/45) _(merged 2026-03-26)_
@@ -126,4 +127,7 @@ Total public PRs merged: **92**
 
 ## [libsdl-org/SDL](https://github.com/libsdl-org/SDL)
 - [SDL2: Update from Visual Studio 2019 to Visual Studio 2022 for UWP/WinRT](https://github.com/libsdl-org/SDL/pull/12838) _(merged 2025-04-23)_
+
+## [SternXD/AltBot](https://github.com/SternXD/AltBot)
+- [Remove Pushover stuff and fix env variables with docker](https://github.com/SternXD/AltBot/pull/23) _(merged 2024-04-19)_
 
