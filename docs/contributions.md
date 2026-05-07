@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **111**
+Total public PRs merged: **112**
 
 ---
 
@@ -37,6 +37,7 @@ Total public PRs merged: **111**
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Fix RA login state, and add dismiss dialog](https://github.com/PCSX2/pcsx2/pull/14012) _(merged 2026-05-06)_
 - [Achievements: Block debugger in hardcore mode when using RAIntegration](https://github.com/PCSX2/pcsx2/pull/14342) _(merged 2026-04-25)_
 - [Qt: Add missing winwil include path](https://github.com/PCSX2/pcsx2/pull/14321) _(merged 2026-04-18)_
 - [FullscreenUI: Various improvements](https://github.com/PCSX2/pcsx2/pull/14282) _(merged 2026-04-15)_
