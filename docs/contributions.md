@@ -1,9 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **112**
+Total public PRs merged: **113**
 
 ---
+
+## [SideStore/SideStore](https://github.com/SideStore/SideStore)
+- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
 - [Qt/Vulkan: Keep Qt usage only in ui project and make Vulkan validation optional](https://github.com/PCSX2/myMCpp/pull/52) _(merged 2026-04-29)_
