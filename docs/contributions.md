@@ -1,14 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **113**
+Total public PRs merged: **117**
 
 ---
 
-## [SideStore/SideStore](https://github.com/SideStore/SideStore)
-- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
-
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [MSBuild/Formats: Fix compiling and fix superblock, FAT/ECC, for saves](https://github.com/PCSX2/myMCpp/pull/54) _(merged 2026-05-11)_
+- [ci: Add ARM64 Linux builds](https://github.com/PCSX2/myMCpp/pull/53) _(merged 2026-05-10)_
 - [Qt/Vulkan: Keep Qt usage only in ui project and make Vulkan validation optional](https://github.com/PCSX2/myMCpp/pull/52) _(merged 2026-04-29)_
 - [Renderer: Fix icon texture OOB crash when switching saves](https://github.com/PCSX2/myMCpp/pull/51) _(merged 2026-04-26)_
 - [Renderer/Vulkan: fix validation errors and modernize API usage](https://github.com/PCSX2/myMCpp/pull/47) _(merged 2026-03-27)_
@@ -38,6 +37,18 @@ Total public PRs merged: **113**
 - [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
+
+## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
+- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
+- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
+- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
+- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
+- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
+- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
+- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
+
+## [SideStore/SideStore](https://github.com/SideStore/SideStore)
+- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [FullscreenUI: Fix RA login state, and add dismiss dialog](https://github.com/PCSX2/pcsx2/pull/14012) _(merged 2026-05-06)_
@@ -84,13 +95,6 @@ Total public PRs merged: **113**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
-
-## [SternXD/devmodewiki](https://github.com/SternXD/devmodewiki)
-- [docs: Make PPSSPP Guide more clear](https://github.com/SternXD/devmodewiki/pull/12) _(merged 2026-03-11)_
-- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/SternXD/devmodewiki/pull/11) _(merged 2026-02-25)_
-- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/SternXD/devmodewiki/pull/8) _(merged 2026-02-17)_
-- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/SternXD/devmodewiki/pull/5) _(merged 2025-09-25)_
-- [wiki: Add admonitions for all guides](https://github.com/SternXD/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
