@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **122**
+Total public PRs merged: **123**
 
 ---
 
@@ -19,6 +19,7 @@ Total public PRs merged: **122**
 - [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [GS/VK: Update ImGui when resizing the swap chain](https://github.com/PCSX2/pcsx2/pull/14400) _(merged 2026-05-13)_
 - [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/14420) _(merged 2026-05-12)_
 - [FullscreenUI: Fix RA login state, and add dismiss dialog](https://github.com/PCSX2/pcsx2/pull/14012) _(merged 2026-05-06)_
 - [Achievements: Block debugger in hardcore mode when using RAIntegration](https://github.com/PCSX2/pcsx2/pull/14342) _(merged 2026-04-25)_
