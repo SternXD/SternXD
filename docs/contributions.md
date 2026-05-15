@@ -1,24 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **123**
+Total public PRs merged: **124**
 
 ---
 
-## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
-- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
-- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
-- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
-- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
-- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
-- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
-- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
-- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
-- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
-- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
-- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [GS: Add shader compile indicator](https://github.com/PCSX2/pcsx2/pull/14448) _(merged 2026-05-14)_
 - [GS/VK: Update ImGui when resizing the swap chain](https://github.com/PCSX2/pcsx2/pull/14400) _(merged 2026-05-13)_
 - [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/14420) _(merged 2026-05-12)_
 - [FullscreenUI: Fix RA login state, and add dismiss dialog](https://github.com/PCSX2/pcsx2/pull/14012) _(merged 2026-05-06)_
@@ -65,6 +53,19 @@ Total public PRs merged: **123**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
+- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
+- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
+- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
+- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
+- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
+- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
+- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
+- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
+- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
+- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
+- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
 - [MSBuild/Formats: Fix compiling and fix superblock, FAT/ECC, for saves](https://github.com/PCSX2/myMCpp/pull/54) _(merged 2026-05-11)_
