@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **124**
+Total public PRs merged: **125**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [GS: Track shader compile count and duration for OSD](https://github.com/PCSX2/pcsx2/pull/14450) _(merged 2026-05-16)_
 - [GS: Add shader compile indicator](https://github.com/PCSX2/pcsx2/pull/14448) _(merged 2026-05-14)_
 - [GS/VK: Update ImGui when resizing the swap chain](https://github.com/PCSX2/pcsx2/pull/14400) _(merged 2026-05-13)_
 - [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/14420) _(merged 2026-05-12)_
