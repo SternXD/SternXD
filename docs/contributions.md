@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **125**
+Total public PRs merged: **123**
 
 ---
 
@@ -157,10 +157,6 @@ Total public PRs merged: **125**
 
 ## [fmhy/edit](https://github.com/fmhy/edit)
 - [Update Xbox Emulation Hub text](https://github.com/fmhy/edit/pull/2896) _(merged 2025-01-28)_
-
-## [XboxEmulationHub/XBSX2-old](https://github.com/XboxEmulationHub/XBSX2-old)
-- [Rebase to latest commits](https://github.com/XboxEmulationHub/XBSX2-old/pull/11) _(merged 2024-08-27)_
-- [pr for history](https://github.com/XboxEmulationHub/XBSX2-old/pull/2) _(merged 2024-06-25)_
 
 ## [xboxoneresearch/XBOX_Linux](https://github.com/xboxoneresearch/XBOX_Linux)
 - [[FEAT:] Add GitHub Workflow, and Update WebView2 NuGet package.](https://github.com/xboxoneresearch/XBOX_Linux/pull/1) _(merged 2024-07-30)_
