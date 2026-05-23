@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **123**
+Total public PRs merged: **117**
 
 ---
 
@@ -56,8 +56,6 @@ Total public PRs merged: **123**
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
 
 ## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
-- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
-- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
 - [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
 - [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
 - [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
@@ -114,15 +112,9 @@ Total public PRs merged: **123**
 ## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
 - [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
 
-## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
-- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
-
 ## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
 - [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
 - [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
-
-## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
-- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/hrydgard/ppsspp/pull/21100) _(merged 2026-01-04)_
 
 ## [libretro/RetroArch](https://github.com/libretro/RetroArch)
 - [UWP: Directly add cppwinrt to fix issues related to nuget restore](https://github.com/libretro/RetroArch/pull/18572) _(merged 2026-01-03)_
@@ -142,15 +134,9 @@ Total public PRs merged: **123**
 - [Android: Implement GPU Driver Manager with custom driver support](https://github.com/ARMSX2/ARMSX2/pull/65) _(merged 2025-11-19)_
 - [Cleanup: Cleanup .DS_Store files and update JDK/Gradle versions](https://github.com/ARMSX2/ARMSX2/pull/3) _(merged 2025-10-26)_
 
-## [Venomalia/UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput)
-- [README: Fix link to DolphinUWP in README](https://github.com/Venomalia/UniversalDynamicInput/pull/297) _(merged 2025-10-05)_
-
 ## [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
 - [feat: Add code and formatting guidelines](https://github.com/SideStore/SideStore-Docs/pull/156) _(merged 2025-09-19)_
 - [Revert "Update docusaurus.config.js"](https://github.com/SideStore/SideStore-Docs/pull/42) _(merged 2024-12-15)_
-
-## [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader)
-- [fix: use addHeaders to set 'security-code' header for request](https://github.com/Dadoum/Sideloader/pull/101) _(merged 2025-08-05)_
 
 ## [libsdl-org/SDL](https://github.com/libsdl-org/SDL)
 - [SDL2: Update from Visual Studio 2019 to Visual Studio 2022 for UWP/WinRT](https://github.com/libsdl-org/SDL/pull/12838) _(merged 2025-04-23)_
