@@ -1,11 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **125**
+Total public PRs merged: **127**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Qt/ImGui: Add clipboard support and fix modfier keys](https://github.com/PCSX2/pcsx2/pull/14549) _(merged 2026-06-07)_
+- [FullscreenUI: Implement cover download support](https://github.com/PCSX2/pcsx2/pull/13620) _(merged 2026-06-07)_
 - [FullscreenUI: Move AA1 from SW only path](https://github.com/PCSX2/pcsx2/pull/14504) _(merged 2026-05-29)_
 - [GS: Track shader compile count and duration for OSD](https://github.com/PCSX2/pcsx2/pull/14450) _(merged 2026-05-16)_
 - [GS: Add shader compile indicator](https://github.com/PCSX2/pcsx2/pull/14448) _(merged 2026-05-14)_
