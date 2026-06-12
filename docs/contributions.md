@@ -1,11 +1,17 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **129**
+Total public PRs merged: **132**
 
 ---
 
+## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
+- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
+- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
+
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Qt/Formats: Support batch imports and fix duplicate folder deletion](https://github.com/PCSX2/myMCpp/pull/60) _(merged 2026-06-11)_
 - [Formats: Fix import crashes and parsing issues for MAX, SharkPort, CBS, and PSV saves](https://github.com/PCSX2/myMCpp/pull/59) _(merged 2026-06-10)_
 - [MSBuild: Add shared property sheets and clean up project files](https://github.com/PCSX2/myMCpp/pull/58) _(merged 2026-06-10)_
 - [CI: Add Crowdin CI sync workflow](https://github.com/PCSX2/myMCpp/pull/56) _(merged 2026-05-26)_
@@ -119,9 +125,6 @@ Total public PRs merged: **129**
 
 ## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
 - [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
-
-## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
-- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
 - [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
