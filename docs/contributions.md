@@ -1,9 +1,14 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **137**
+Total public PRs merged: **139**
 
 ---
+
+## [SideStore/SideStore](https://github.com/SideStore/SideStore)
+- [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
+- [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
+- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [Common/Emitter: Inline _xMovRtoR into xImpl_Mov operator](https://github.com/PCSX2/pcsx2/pull/14559) _(merged 2026-06-13)_
@@ -117,9 +122,6 @@ Total public PRs merged: **137**
 - [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
-
-## [SideStore/SideStore](https://github.com/SideStore/SideStore)
-- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
