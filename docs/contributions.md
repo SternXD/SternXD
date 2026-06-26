@@ -1,27 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **140**
+Total public PRs merged: **141**
 
 ---
 
-## [libretro/RetroArch](https://github.com/libretro/RetroArch)
-- [UWP: Fix build on recent MSVC](https://github.com/libretro/RetroArch/pull/19141) _(merged 2026-06-24)_
-- [UWP: Directly add cppwinrt to fix issues related to nuget restore](https://github.com/libretro/RetroArch/pull/18572) _(merged 2026-01-03)_
-- [UWP: Update x64 Mesa Binaries](https://github.com/libretro/RetroArch/pull/18568) _(merged 2026-01-02)_
-- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/libretro/RetroArch/pull/18558) _(merged 2026-01-02)_
-- [MSVC: Fix menu and achievement sounds on MSVC builds](https://github.com/libretro/RetroArch/pull/18560) _(merged 2026-01-01)_
-- [UWP: Bump version to 1.22.2](https://github.com/libretro/RetroArch/pull/18559) _(merged 2026-01-01)_
-- [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
-- [UWP: Update x64 ANGLE Binaries](https://github.com/libretro/RetroArch/pull/17681) _(merged 2025-03-13)_
-- [UWP: Update invalid pfx key](https://github.com/libretro/RetroArch/pull/17679) _(merged 2025-03-13)_
-
-## [SideStore/SideStore](https://github.com/SideStore/SideStore)
-- [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
-- [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
-- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Qt: Add sorting to memory card list](https://github.com/PCSX2/pcsx2/pull/14618) _(merged 2026-06-25)_
 - [Common/Emitter: Inline _xMovRtoR into xImpl_Mov operator](https://github.com/PCSX2/pcsx2/pull/14559) _(merged 2026-06-13)_
 - [FullscreenUI: Add missing settings from Qt and fix div rounding label](https://github.com/PCSX2/pcsx2/pull/14556) _(merged 2026-06-13)_
 - [Achievements: Group leaderboards by subset and tracking state](https://github.com/PCSX2/pcsx2/pull/14402) _(merged 2026-06-13)_
@@ -76,6 +61,22 @@ Total public PRs merged: **140**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [libretro/RetroArch](https://github.com/libretro/RetroArch)
+- [UWP: Fix build on recent MSVC](https://github.com/libretro/RetroArch/pull/19141) _(merged 2026-06-24)_
+- [UWP: Directly add cppwinrt to fix issues related to nuget restore](https://github.com/libretro/RetroArch/pull/18572) _(merged 2026-01-03)_
+- [UWP: Update x64 Mesa Binaries](https://github.com/libretro/RetroArch/pull/18568) _(merged 2026-01-02)_
+- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/libretro/RetroArch/pull/18558) _(merged 2026-01-02)_
+- [MSVC: Fix menu and achievement sounds on MSVC builds](https://github.com/libretro/RetroArch/pull/18560) _(merged 2026-01-01)_
+- [UWP: Bump version to 1.22.2](https://github.com/libretro/RetroArch/pull/18559) _(merged 2026-01-01)_
+- [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
+- [UWP: Update x64 ANGLE Binaries](https://github.com/libretro/RetroArch/pull/17681) _(merged 2025-03-13)_
+- [UWP: Update invalid pfx key](https://github.com/libretro/RetroArch/pull/17679) _(merged 2025-03-13)_
+
+## [SideStore/SideStore](https://github.com/SideStore/SideStore)
+- [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
+- [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
+- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
 - [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
