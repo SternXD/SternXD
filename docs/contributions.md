@@ -1,9 +1,55 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **141**
+Total public PRs merged: **145**
 
 ---
+
+## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [CI/Qt: Update to Qt 6.11.1 and add qt svg to ci/cmake](https://github.com/PCSX2/myMCpp/pull/64) _(merged 2026-06-29)_
+- [Core/Renderer/VK: Finish VMA migration, validation fixes, smoother resize, and various fixes](https://github.com/PCSX2/myMCpp/pull/62) _(merged 2026-06-29)_
+- [Qt/Formats: Support batch imports and fix duplicate folder deletion](https://github.com/PCSX2/myMCpp/pull/60) _(merged 2026-06-11)_
+- [Formats: Fix import crashes and parsing issues for MAX, SharkPort, CBS, and PSV saves](https://github.com/PCSX2/myMCpp/pull/59) _(merged 2026-06-10)_
+- [MSBuild: Add shared property sheets and clean up project files](https://github.com/PCSX2/myMCpp/pull/58) _(merged 2026-06-10)_
+- [CI: Add Crowdin CI sync workflow](https://github.com/PCSX2/myMCpp/pull/56) _(merged 2026-05-26)_
+- [MSBuild/Formats: Fix compiling and fix superblock, FAT/ECC, for saves](https://github.com/PCSX2/myMCpp/pull/54) _(merged 2026-05-11)_
+- [ci: Add ARM64 Linux builds](https://github.com/PCSX2/myMCpp/pull/53) _(merged 2026-05-10)_
+- [Qt/Vulkan: Keep Qt usage only in ui project and make Vulkan validation optional](https://github.com/PCSX2/myMCpp/pull/52) _(merged 2026-04-29)_
+- [Renderer: Fix icon texture OOB crash when switching saves](https://github.com/PCSX2/myMCpp/pull/51) _(merged 2026-04-26)_
+- [Renderer/Vulkan: fix validation errors and modernize API usage](https://github.com/PCSX2/myMCpp/pull/47) _(merged 2026-03-27)_
+- [Qt: Use existing card size when formatting](https://github.com/PCSX2/myMCpp/pull/45) _(merged 2026-03-26)_
+- [CI: Bring back nightly-YYYYMMDD](https://github.com/PCSX2/myMCpp/pull/43) _(merged 2026-03-22)_
+- [CI/Qt: Update repository links and CI configuration](https://github.com/PCSX2/myMCpp/pull/42) _(merged 2026-03-22)_
+- [Formats: Treat .psu as EMS and tolerate PSU subdirs](https://github.com/PCSX2/myMCpp/pull/38) _(merged 2026-03-14)_
+- [Formats/Qt: Fix mass export remove dead code and add file names dialog](https://github.com/PCSX2/myMCpp/pull/35) _(merged 2026-03-14)_
+- [Qt: multiple saves/filter out non existent saves ](https://github.com/PCSX2/myMCpp/pull/29) _(merged 2026-03-12)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/24) _(merged 2026-03-12)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/23) _(merged 2026-03-12)_
+- [Qt: Allow locking toolbar to not move](https://github.com/PCSX2/myMCpp/pull/22) _(merged 2026-03-12)_
+- [gitattributes: Add .gitattributes file to normalize text files and set line endings](https://github.com/PCSX2/myMCpp/pull/21) _(merged 2026-03-12)_
+- [Core/Qt: Card Info/Rename/timestamp QoL improvements](https://github.com/PCSX2/myMCpp/pull/20) _(merged 2026-03-11)_
+- [Qt: Add camera controls to IconWidget](https://github.com/PCSX2/myMCpp/pull/19) _(merged 2026-03-11)_
+- [Renderer/VK: Enable Vulkan on macOS via MoltenVK](https://github.com/PCSX2/myMCpp/pull/18) _(merged 2026-03-06)_
+- [Renderer/MTL: fix Metal renderer pipeline, resource handling, and cleanup](https://github.com/PCSX2/myMCpp/pull/17) _(merged 2026-03-06)_
+- [chore: format code, remove unnecessary build scripts, and update docs](https://github.com/PCSX2/myMCpp/pull/16) _(merged 2026-03-05)_
+- [Core: Fix ECC spare size offset and update ECC tool label dynamically](https://github.com/PCSX2/myMCpp/pull/15) _(merged 2026-03-04)_
+- [Core: Auto detect raw dump memory cards without ECC spare data](https://github.com/PCSX2/myMCpp/pull/14) _(merged 2026-03-04)_
+- [common/sjis: Replace manual normalization table with utf8proc NFKC](https://github.com/PCSX2/myMCpp/pull/13) _(merged 2026-03-04)_
+- [Build/Renderer/Qt: MSBuild solution, VSync support, settings UI rework](https://github.com/PCSX2/myMCpp/pull/12) _(merged 2026-03-04)_
+- [Docs/Renderer/Qt/CI: QoL Fixes/changes](https://github.com/PCSX2/myMCpp/pull/11) _(merged 2026-02-23)_
+- [CI/labeler: Add build scripts and labeler](https://github.com/PCSX2/myMCpp/pull/9) _(merged 2025-12-21)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/8) _(merged 2025-12-21)_
+- [Qt: Make strings translatable](https://github.com/PCSX2/myMCpp/pull/6) _(merged 2025-12-21)_
+- [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
+- [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
+- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
+
+## [Gamr13/Gamr13.github.io](https://github.com/Gamr13/Gamr13.github.io)
+- [docs: remove unneeded images and change store link](https://github.com/Gamr13/Gamr13.github.io/pull/9) _(merged 2026-06-29)_
+
+## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
+- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
+- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [Qt: Add sorting to memory card list](https://github.com/PCSX2/pcsx2/pull/14618) _(merged 2026-06-25)_
@@ -98,49 +144,9 @@ Total public PRs merged: **141**
 - [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
 - [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
 
-## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
-- [Qt/Formats: Support batch imports and fix duplicate folder deletion](https://github.com/PCSX2/myMCpp/pull/60) _(merged 2026-06-11)_
-- [Formats: Fix import crashes and parsing issues for MAX, SharkPort, CBS, and PSV saves](https://github.com/PCSX2/myMCpp/pull/59) _(merged 2026-06-10)_
-- [MSBuild: Add shared property sheets and clean up project files](https://github.com/PCSX2/myMCpp/pull/58) _(merged 2026-06-10)_
-- [CI: Add Crowdin CI sync workflow](https://github.com/PCSX2/myMCpp/pull/56) _(merged 2026-05-26)_
-- [MSBuild/Formats: Fix compiling and fix superblock, FAT/ECC, for saves](https://github.com/PCSX2/myMCpp/pull/54) _(merged 2026-05-11)_
-- [ci: Add ARM64 Linux builds](https://github.com/PCSX2/myMCpp/pull/53) _(merged 2026-05-10)_
-- [Qt/Vulkan: Keep Qt usage only in ui project and make Vulkan validation optional](https://github.com/PCSX2/myMCpp/pull/52) _(merged 2026-04-29)_
-- [Renderer: Fix icon texture OOB crash when switching saves](https://github.com/PCSX2/myMCpp/pull/51) _(merged 2026-04-26)_
-- [Renderer/Vulkan: fix validation errors and modernize API usage](https://github.com/PCSX2/myMCpp/pull/47) _(merged 2026-03-27)_
-- [Qt: Use existing card size when formatting](https://github.com/PCSX2/myMCpp/pull/45) _(merged 2026-03-26)_
-- [CI: Bring back nightly-YYYYMMDD](https://github.com/PCSX2/myMCpp/pull/43) _(merged 2026-03-22)_
-- [CI/Qt: Update repository links and CI configuration](https://github.com/PCSX2/myMCpp/pull/42) _(merged 2026-03-22)_
-- [Formats: Treat .psu as EMS and tolerate PSU subdirs](https://github.com/PCSX2/myMCpp/pull/38) _(merged 2026-03-14)_
-- [Formats/Qt: Fix mass export remove dead code and add file names dialog](https://github.com/PCSX2/myMCpp/pull/35) _(merged 2026-03-14)_
-- [Qt: multiple saves/filter out non existent saves ](https://github.com/PCSX2/myMCpp/pull/29) _(merged 2026-03-12)_
-- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/24) _(merged 2026-03-12)_
-- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/23) _(merged 2026-03-12)_
-- [Qt: Allow locking toolbar to not move](https://github.com/PCSX2/myMCpp/pull/22) _(merged 2026-03-12)_
-- [gitattributes: Add .gitattributes file to normalize text files and set line endings](https://github.com/PCSX2/myMCpp/pull/21) _(merged 2026-03-12)_
-- [Core/Qt: Card Info/Rename/timestamp QoL improvements](https://github.com/PCSX2/myMCpp/pull/20) _(merged 2026-03-11)_
-- [Qt: Add camera controls to IconWidget](https://github.com/PCSX2/myMCpp/pull/19) _(merged 2026-03-11)_
-- [Renderer/VK: Enable Vulkan on macOS via MoltenVK](https://github.com/PCSX2/myMCpp/pull/18) _(merged 2026-03-06)_
-- [Renderer/MTL: fix Metal renderer pipeline, resource handling, and cleanup](https://github.com/PCSX2/myMCpp/pull/17) _(merged 2026-03-06)_
-- [chore: format code, remove unnecessary build scripts, and update docs](https://github.com/PCSX2/myMCpp/pull/16) _(merged 2026-03-05)_
-- [Core: Fix ECC spare size offset and update ECC tool label dynamically](https://github.com/PCSX2/myMCpp/pull/15) _(merged 2026-03-04)_
-- [Core: Auto detect raw dump memory cards without ECC spare data](https://github.com/PCSX2/myMCpp/pull/14) _(merged 2026-03-04)_
-- [common/sjis: Replace manual normalization table with utf8proc NFKC](https://github.com/PCSX2/myMCpp/pull/13) _(merged 2026-03-04)_
-- [Build/Renderer/Qt: MSBuild solution, VSync support, settings UI rework](https://github.com/PCSX2/myMCpp/pull/12) _(merged 2026-03-04)_
-- [Docs/Renderer/Qt/CI: QoL Fixes/changes](https://github.com/PCSX2/myMCpp/pull/11) _(merged 2026-02-23)_
-- [CI/labeler: Add build scripts and labeler](https://github.com/PCSX2/myMCpp/pull/9) _(merged 2025-12-21)_
-- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/8) _(merged 2025-12-21)_
-- [Qt: Make strings translatable](https://github.com/PCSX2/myMCpp/pull/6) _(merged 2025-12-21)_
-- [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
-- [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
-- [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
-
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
 - [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
-
-## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
-- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
 
 ## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
 - [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
