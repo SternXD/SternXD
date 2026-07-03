@@ -1,11 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **148**
+Total public PRs merged: **150**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Qt: Make everything translatable and fix lang switch bug](https://github.com/PCSX2/myMCpp/pull/70) _(merged 2026-07-02)_
+- [Qt/Formats: Save Copy As, overwrite warnings, and saveAs fixes](https://github.com/PCSX2/myMCpp/pull/69) _(merged 2026-07-02)_
 - [Qt: Open file dialogs in configured folders and remove recent files](https://github.com/PCSX2/myMCpp/pull/68) _(merged 2026-07-01)_
 - [Renderer/Qt: Fix MoltenVK resizing and show init failures in the status bar](https://github.com/PCSX2/myMCpp/pull/67) _(merged 2026-06-30)_
 - [Renderer/AGL/MTL: Fix Metal and AGL issues](https://github.com/PCSX2/myMCpp/pull/66) _(merged 2026-06-30)_
