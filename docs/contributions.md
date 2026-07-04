@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **150**
+Total public PRs merged: **151**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Resources/Docs: Add new logo, add psu docs, and fix formatting and structure](https://github.com/PCSX2/myMCpp/pull/71) _(merged 2026-07-04)_
 - [Qt: Make everything translatable and fix lang switch bug](https://github.com/PCSX2/myMCpp/pull/70) _(merged 2026-07-02)_
 - [Qt/Formats: Save Copy As, overwrite warnings, and saveAs fixes](https://github.com/PCSX2/myMCpp/pull/69) _(merged 2026-07-02)_
 - [Qt: Open file dialogs in configured folders and remove recent files](https://github.com/PCSX2/myMCpp/pull/68) _(merged 2026-07-01)_
