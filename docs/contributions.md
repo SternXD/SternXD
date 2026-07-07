@@ -1,11 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **152**
+Total public PRs merged: **154**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Qt/Vulkan: Add graphics adapter selection and fix some vk issues](https://github.com/PCSX2/myMCpp/pull/76) _(merged 2026-07-07)_
+- [ci: remove aqtinstall log and add it to gitignore](https://github.com/PCSX2/myMCpp/pull/75) _(merged 2026-07-06)_
 - [CI/CMake: Add translation update target and run lupdate on Crowdin sync](https://github.com/PCSX2/myMCpp/pull/73) _(merged 2026-07-05)_
 - [Resources/Docs: Add new logo, add psu docs, and fix formatting and structure](https://github.com/PCSX2/myMCpp/pull/71) _(merged 2026-07-04)_
 - [Qt: Make everything translatable and fix lang switch bug](https://github.com/PCSX2/myMCpp/pull/70) _(merged 2026-07-02)_
