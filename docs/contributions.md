@@ -1,11 +1,14 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **154**
+Total public PRs merged: **157**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Formats: Fix RLE decompression for Keroro icons](https://github.com/PCSX2/myMCpp/pull/82) _(merged 2026-07-08)_
+- [3rdparty: Various dep updates](https://github.com/PCSX2/myMCpp/pull/80) _(merged 2026-07-08)_
+- [Qt: Add folder export and bulk file actions](https://github.com/PCSX2/myMCpp/pull/79) _(merged 2026-07-07)_
 - [Qt/Vulkan: Add graphics adapter selection and fix some vk issues](https://github.com/PCSX2/myMCpp/pull/76) _(merged 2026-07-07)_
 - [ci: remove aqtinstall log and add it to gitignore](https://github.com/PCSX2/myMCpp/pull/75) _(merged 2026-07-06)_
 - [CI/CMake: Add translation update target and run lupdate on Crowdin sync](https://github.com/PCSX2/myMCpp/pull/73) _(merged 2026-07-05)_
