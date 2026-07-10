@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **157**
+Total public PRs merged: **158**
 
 ---
 
@@ -56,14 +56,8 @@ Total public PRs merged: **157**
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
 
-## [Gamr13/Gamr13.github.io](https://github.com/Gamr13/Gamr13.github.io)
-- [docs: remove unneeded images and change store link](https://github.com/Gamr13/Gamr13.github.io/pull/9) _(merged 2026-06-29)_
-
-## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
-- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
-- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: QoL tweaks and achievements nav fixes](https://github.com/PCSX2/pcsx2/pull/14669) _(merged 2026-07-08)_
 - [Qt: Add sorting to memory card list](https://github.com/PCSX2/pcsx2/pull/14618) _(merged 2026-06-25)_
 - [Common/Emitter: Inline _xMovRtoR into xImpl_Mov operator](https://github.com/PCSX2/pcsx2/pull/14559) _(merged 2026-06-13)_
 - [FullscreenUI: Add missing settings from Qt and fix div rounding label](https://github.com/PCSX2/pcsx2/pull/14556) _(merged 2026-06-13)_
@@ -119,6 +113,13 @@ Total public PRs merged: **157**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [Gamr13/Gamr13.github.io](https://github.com/Gamr13/Gamr13.github.io)
+- [docs: remove unneeded images and change store link](https://github.com/Gamr13/Gamr13.github.io/pull/9) _(merged 2026-06-29)_
+
+## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
+- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
+- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
 
 ## [libretro/RetroArch](https://github.com/libretro/RetroArch)
 - [UWP: Fix build on recent MSVC](https://github.com/libretro/RetroArch/pull/19141) _(merged 2026-06-24)_
