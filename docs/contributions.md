@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **158**
+Total public PRs merged: **159**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [3rdparty: Update VMA to v3.4.0](https://github.com/PCSX2/myMCpp/pull/83) _(merged 2026-07-10)_
 - [Formats: Fix RLE decompression for Keroro icons](https://github.com/PCSX2/myMCpp/pull/82) _(merged 2026-07-08)_
 - [3rdparty: Various dep updates](https://github.com/PCSX2/myMCpp/pull/80) _(merged 2026-07-08)_
 - [Qt: Add folder export and bulk file actions](https://github.com/PCSX2/myMCpp/pull/79) _(merged 2026-07-07)_
