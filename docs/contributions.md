@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **159**
+Total public PRs merged: **160**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Qt: Fix native widget refresh glitch on GNOME Wayland](https://github.com/PCSX2/myMCpp/pull/87) _(merged 2026-07-14)_
 - [3rdparty: Update VMA to v3.4.0](https://github.com/PCSX2/myMCpp/pull/83) _(merged 2026-07-10)_
 - [Formats: Fix RLE decompression for Keroro icons](https://github.com/PCSX2/myMCpp/pull/82) _(merged 2026-07-08)_
 - [3rdparty: Various dep updates](https://github.com/PCSX2/myMCpp/pull/80) _(merged 2026-07-08)_
