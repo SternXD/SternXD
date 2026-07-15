@@ -1,9 +1,24 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **160**
+Total public PRs merged: **161**
 
 ---
+
+## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
+- [build: Update all deps to their latest versions](https://github.com/XboxEmulationHub/devmodewiki/pull/36) _(merged 2026-07-15)_
+- [docs: Add privacy policy for discord server bot](https://github.com/XboxEmulationHub/devmodewiki/pull/31) _(merged 2026-06-12)_
+- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
+- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
+- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
+- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
+- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
+- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
+- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
+- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
+- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
+- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
+- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
 - [Qt: Fix native widget refresh glitch on GNOME Wayland](https://github.com/PCSX2/myMCpp/pull/87) _(merged 2026-07-14)_
@@ -144,20 +159,6 @@ Total public PRs merged: **160**
 - [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
 - [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
 - [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
-
-## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
-- [docs: Add privacy policy for discord server bot](https://github.com/XboxEmulationHub/devmodewiki/pull/31) _(merged 2026-06-12)_
-- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
-- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
-- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
-- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
-- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
-- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
-- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
-- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
-- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
-- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
-- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
