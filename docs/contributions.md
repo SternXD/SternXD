@@ -1,9 +1,69 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **161**
+Total public PRs merged: **163**
 
 ---
+
+## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Fix nav loss after logging in to RA](https://github.com/PCSX2/pcsx2/pull/14709) _(merged 2026-07-16)_
+- [ImGui: Fix cut off legend in save state overlay](https://github.com/PCSX2/pcsx2/pull/14705) _(merged 2026-07-16)_
+- [FullscreenUI: QoL tweaks and achievements nav fixes](https://github.com/PCSX2/pcsx2/pull/14669) _(merged 2026-07-08)_
+- [Qt: Add sorting to memory card list](https://github.com/PCSX2/pcsx2/pull/14618) _(merged 2026-06-25)_
+- [Common/Emitter: Inline _xMovRtoR into xImpl_Mov operator](https://github.com/PCSX2/pcsx2/pull/14559) _(merged 2026-06-13)_
+- [FullscreenUI: Add missing settings from Qt and fix div rounding label](https://github.com/PCSX2/pcsx2/pull/14556) _(merged 2026-06-13)_
+- [Achievements: Group leaderboards by subset and tracking state](https://github.com/PCSX2/pcsx2/pull/14402) _(merged 2026-06-13)_
+- [Qt/ImGui: Add clipboard support and fix modfier keys](https://github.com/PCSX2/pcsx2/pull/14549) _(merged 2026-06-07)_
+- [FullscreenUI: Implement cover download support](https://github.com/PCSX2/pcsx2/pull/13620) _(merged 2026-06-07)_
+- [FullscreenUI: Move AA1 from SW only path](https://github.com/PCSX2/pcsx2/pull/14504) _(merged 2026-05-29)_
+- [GS: Track shader compile count and duration for OSD](https://github.com/PCSX2/pcsx2/pull/14450) _(merged 2026-05-16)_
+- [GS: Add shader compile indicator](https://github.com/PCSX2/pcsx2/pull/14448) _(merged 2026-05-14)_
+- [GS/VK: Update ImGui when resizing the swap chain](https://github.com/PCSX2/pcsx2/pull/14400) _(merged 2026-05-13)_
+- [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/14420) _(merged 2026-05-12)_
+- [FullscreenUI: Fix RA login state, and add dismiss dialog](https://github.com/PCSX2/pcsx2/pull/14012) _(merged 2026-05-06)_
+- [Achievements: Block debugger in hardcore mode when using RAIntegration](https://github.com/PCSX2/pcsx2/pull/14342) _(merged 2026-04-25)_
+- [Qt: Add missing winwil include path](https://github.com/PCSX2/pcsx2/pull/14321) _(merged 2026-04-18)_
+- [FullscreenUI: Various improvements](https://github.com/PCSX2/pcsx2/pull/14282) _(merged 2026-04-15)_
+- [Qt: Add RetroAchievements to Setup Wizard](https://github.com/PCSX2/pcsx2/pull/14284) _(merged 2026-04-13)_
+- [OSD: Use standard font for input overlay](https://github.com/PCSX2/pcsx2/pull/14202) _(merged 2026-03-25)_
+- [Qt/FullscreenUI/ImGui: OSD Dedicated tab, custom fonts, margins, and Select/Deselect All](https://github.com/PCSX2/pcsx2/pull/14127) _(merged 2026-03-19)_
+- [FullscreenUI/Qt: Mark extended upscaling multipliers as VK/OGL only and expose them in FullscreenUI](https://github.com/PCSX2/pcsx2/pull/14071) _(merged 2026-03-19)_
+- [GSRunner: Fix gsrunner ImGui fonts and host stubs](https://github.com/PCSX2/pcsx2/pull/14123) _(merged 2026-03-11)_
+- [VMManager: Show OSD warning when controller 1 has no input bindings configured](https://github.com/PCSX2/pcsx2/pull/14088) _(merged 2026-03-05)_
+- [3rdparty: Update ImGui to v1.92.6](https://github.com/PCSX2/pcsx2/pull/14027) _(merged 2026-02-22)_
+- [USB: Implement EyeToy camera support on macOS](https://github.com/PCSX2/pcsx2/pull/13974) _(merged 2026-02-16)_
+- [Achievements: Fix Active Challenges bucket with subsets](https://github.com/PCSX2/pcsx2/pull/13998) _(merged 2026-02-15)_
+- [Achievements: Various visual improvements to Achievements menu](https://github.com/PCSX2/pcsx2/pull/13926) _(merged 2026-02-09)_
+- [FullscreenUI: Extract Settings into separate source and add internal header](https://github.com/PCSX2/pcsx2/pull/13821) _(merged 2026-01-29)_
+- [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
+- [Copyright: Change year from 2002-2025 to 2002-2026](https://github.com/PCSX2/pcsx2/pull/13818) _(merged 2026-01-14)_
+- [FullscreenUI: Remove unnecessary menu scrollbars, standardize dialogs, and improve textboxes](https://github.com/PCSX2/pcsx2/pull/13810) _(merged 2026-01-14)_
+- [GameDB: Add post-bloom alignment and native scaling for Urban Reign](https://github.com/PCSX2/pcsx2/pull/13801) _(merged 2026-01-10)_
+- [FullscreenUI: Update auto mapping to include device names with display names](https://github.com/PCSX2/pcsx2/pull/13773) _(merged 2026-01-04)_
+- [Qt: Add RA Logo to Achievement Login Dialog](https://github.com/PCSX2/pcsx2/pull/13718) _(merged 2025-12-17)_
+- [FSUI/Qt: Add Center/Tile background modes and remove redundant Qt null checks](https://github.com/PCSX2/pcsx2/pull/13564) _(merged 2025-12-14)_
+- [Qt/FSUI: Add language flag icons to settings and setup](https://github.com/PCSX2/pcsx2/pull/13574) _(merged 2025-12-11)_
+- [Achievements: Fix leaderboard headers and selection focus](https://github.com/PCSX2/pcsx2/pull/13571) _(merged 2025-12-09)_
+- [Qt: Fix status bar widgets being cut off with longer translations](https://github.com/PCSX2/pcsx2/pull/13569) _(merged 2025-12-06)_
+- [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/13615) _(merged 2025-12-05)_
+- [GS: Add texture replacement dump/load indicators to OSD](https://github.com/PCSX2/pcsx2/pull/13590) _(merged 2025-12-02)_
+- [FullscreenUI: Allow pause menu to wrap around](https://github.com/PCSX2/pcsx2/pull/13570) _(merged 2025-11-24)_
+- [Achievements/Qt: Show success feedback on RetroAchievements login](https://github.com/PCSX2/pcsx2/pull/13567) _(merged 2025-11-24)_
+- [BPM: Add custom background image support](https://github.com/PCSX2/pcsx2/pull/13410) _(merged 2025-11-19)_
+- [labeler: Add OSD / ImGui labeler](https://github.com/PCSX2/pcsx2/pull/13482) _(merged 2025-11-03)_
+- [BPM: Add Network and HDD settings page](https://github.com/PCSX2/pcsx2/pull/13294) _(merged 2025-10-25)_
+- [FullscreenUI: Add footer for clearing bindings](https://github.com/PCSX2/pcsx2/pull/13418) _(merged 2025-10-24)_
+- [Qt/BPM: Improve memory card shutdown warning messages for clarity ](https://github.com/PCSX2/pcsx2/pull/13400) _(merged 2025-10-16)_
+- [Achievements: Harden RetroAchievements Hardcore Compliance](https://github.com/PCSX2/pcsx2/pull/13293) _(merged 2025-09-28)_
+- [FSUI: Fix regression allowing Save State load in Hardcore Mode via ESC menu](https://github.com/PCSX2/pcsx2/pull/13271) _(merged 2025-09-16)_
+- [Qt: Add option to start in Big Picture Mode from settings.](https://github.com/PCSX2/pcsx2/pull/12945) _(merged 2025-07-12)_
+- [FSUI: Add memory card creation dialog](https://github.com/PCSX2/pcsx2/pull/12944) _(merged 2025-07-12)_
+- [FSUI/GS: Fix Deadlock in Achievements Tab/GS Dump text](https://github.com/PCSX2/pcsx2/pull/13000) _(merged 2025-07-10)_
+- [OSD/Achievements: Add 9-position alignment options for Achievement notifications/popups, and OSD](https://github.com/PCSX2/pcsx2/pull/12953) _(merged 2025-07-08)_
+- [GS: Add hotkey for cycling TV shaders](https://github.com/PCSX2/pcsx2/pull/12954) _(merged 2025-07-06)_
+- [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
+- [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
+- [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
 
 ## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
 - [build: Update all deps to their latest versions](https://github.com/XboxEmulationHub/devmodewiki/pull/36) _(merged 2026-07-15)_
@@ -72,64 +132,6 @@ Total public PRs merged: **161**
 - [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
-
-## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
-- [FullscreenUI: QoL tweaks and achievements nav fixes](https://github.com/PCSX2/pcsx2/pull/14669) _(merged 2026-07-08)_
-- [Qt: Add sorting to memory card list](https://github.com/PCSX2/pcsx2/pull/14618) _(merged 2026-06-25)_
-- [Common/Emitter: Inline _xMovRtoR into xImpl_Mov operator](https://github.com/PCSX2/pcsx2/pull/14559) _(merged 2026-06-13)_
-- [FullscreenUI: Add missing settings from Qt and fix div rounding label](https://github.com/PCSX2/pcsx2/pull/14556) _(merged 2026-06-13)_
-- [Achievements: Group leaderboards by subset and tracking state](https://github.com/PCSX2/pcsx2/pull/14402) _(merged 2026-06-13)_
-- [Qt/ImGui: Add clipboard support and fix modfier keys](https://github.com/PCSX2/pcsx2/pull/14549) _(merged 2026-06-07)_
-- [FullscreenUI: Implement cover download support](https://github.com/PCSX2/pcsx2/pull/13620) _(merged 2026-06-07)_
-- [FullscreenUI: Move AA1 from SW only path](https://github.com/PCSX2/pcsx2/pull/14504) _(merged 2026-05-29)_
-- [GS: Track shader compile count and duration for OSD](https://github.com/PCSX2/pcsx2/pull/14450) _(merged 2026-05-16)_
-- [GS: Add shader compile indicator](https://github.com/PCSX2/pcsx2/pull/14448) _(merged 2026-05-14)_
-- [GS/VK: Update ImGui when resizing the swap chain](https://github.com/PCSX2/pcsx2/pull/14400) _(merged 2026-05-13)_
-- [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/14420) _(merged 2026-05-12)_
-- [FullscreenUI: Fix RA login state, and add dismiss dialog](https://github.com/PCSX2/pcsx2/pull/14012) _(merged 2026-05-06)_
-- [Achievements: Block debugger in hardcore mode when using RAIntegration](https://github.com/PCSX2/pcsx2/pull/14342) _(merged 2026-04-25)_
-- [Qt: Add missing winwil include path](https://github.com/PCSX2/pcsx2/pull/14321) _(merged 2026-04-18)_
-- [FullscreenUI: Various improvements](https://github.com/PCSX2/pcsx2/pull/14282) _(merged 2026-04-15)_
-- [Qt: Add RetroAchievements to Setup Wizard](https://github.com/PCSX2/pcsx2/pull/14284) _(merged 2026-04-13)_
-- [OSD: Use standard font for input overlay](https://github.com/PCSX2/pcsx2/pull/14202) _(merged 2026-03-25)_
-- [Qt/FullscreenUI/ImGui: OSD Dedicated tab, custom fonts, margins, and Select/Deselect All](https://github.com/PCSX2/pcsx2/pull/14127) _(merged 2026-03-19)_
-- [FullscreenUI/Qt: Mark extended upscaling multipliers as VK/OGL only and expose them in FullscreenUI](https://github.com/PCSX2/pcsx2/pull/14071) _(merged 2026-03-19)_
-- [GSRunner: Fix gsrunner ImGui fonts and host stubs](https://github.com/PCSX2/pcsx2/pull/14123) _(merged 2026-03-11)_
-- [VMManager: Show OSD warning when controller 1 has no input bindings configured](https://github.com/PCSX2/pcsx2/pull/14088) _(merged 2026-03-05)_
-- [3rdparty: Update ImGui to v1.92.6](https://github.com/PCSX2/pcsx2/pull/14027) _(merged 2026-02-22)_
-- [USB: Implement EyeToy camera support on macOS](https://github.com/PCSX2/pcsx2/pull/13974) _(merged 2026-02-16)_
-- [Achievements: Fix Active Challenges bucket with subsets](https://github.com/PCSX2/pcsx2/pull/13998) _(merged 2026-02-15)_
-- [Achievements: Various visual improvements to Achievements menu](https://github.com/PCSX2/pcsx2/pull/13926) _(merged 2026-02-09)_
-- [FullscreenUI: Extract Settings into separate source and add internal header](https://github.com/PCSX2/pcsx2/pull/13821) _(merged 2026-01-29)_
-- [PAD: Fix hotkeys to differentiate between left and right keyboard keys](https://github.com/PCSX2/pcsx2/pull/13819) _(merged 2026-01-14)_
-- [Copyright: Change year from 2002-2025 to 2002-2026](https://github.com/PCSX2/pcsx2/pull/13818) _(merged 2026-01-14)_
-- [FullscreenUI: Remove unnecessary menu scrollbars, standardize dialogs, and improve textboxes](https://github.com/PCSX2/pcsx2/pull/13810) _(merged 2026-01-14)_
-- [GameDB: Add post-bloom alignment and native scaling for Urban Reign](https://github.com/PCSX2/pcsx2/pull/13801) _(merged 2026-01-10)_
-- [FullscreenUI: Update auto mapping to include device names with display names](https://github.com/PCSX2/pcsx2/pull/13773) _(merged 2026-01-04)_
-- [Qt: Add RA Logo to Achievement Login Dialog](https://github.com/PCSX2/pcsx2/pull/13718) _(merged 2025-12-17)_
-- [FSUI/Qt: Add Center/Tile background modes and remove redundant Qt null checks](https://github.com/PCSX2/pcsx2/pull/13564) _(merged 2025-12-14)_
-- [Qt/FSUI: Add language flag icons to settings and setup](https://github.com/PCSX2/pcsx2/pull/13574) _(merged 2025-12-11)_
-- [Achievements: Fix leaderboard headers and selection focus](https://github.com/PCSX2/pcsx2/pull/13571) _(merged 2025-12-09)_
-- [Qt: Fix status bar widgets being cut off with longer translations](https://github.com/PCSX2/pcsx2/pull/13569) _(merged 2025-12-06)_
-- [3rdparty/Deps: Various updates](https://github.com/PCSX2/pcsx2/pull/13615) _(merged 2025-12-05)_
-- [GS: Add texture replacement dump/load indicators to OSD](https://github.com/PCSX2/pcsx2/pull/13590) _(merged 2025-12-02)_
-- [FullscreenUI: Allow pause menu to wrap around](https://github.com/PCSX2/pcsx2/pull/13570) _(merged 2025-11-24)_
-- [Achievements/Qt: Show success feedback on RetroAchievements login](https://github.com/PCSX2/pcsx2/pull/13567) _(merged 2025-11-24)_
-- [BPM: Add custom background image support](https://github.com/PCSX2/pcsx2/pull/13410) _(merged 2025-11-19)_
-- [labeler: Add OSD / ImGui labeler](https://github.com/PCSX2/pcsx2/pull/13482) _(merged 2025-11-03)_
-- [BPM: Add Network and HDD settings page](https://github.com/PCSX2/pcsx2/pull/13294) _(merged 2025-10-25)_
-- [FullscreenUI: Add footer for clearing bindings](https://github.com/PCSX2/pcsx2/pull/13418) _(merged 2025-10-24)_
-- [Qt/BPM: Improve memory card shutdown warning messages for clarity ](https://github.com/PCSX2/pcsx2/pull/13400) _(merged 2025-10-16)_
-- [Achievements: Harden RetroAchievements Hardcore Compliance](https://github.com/PCSX2/pcsx2/pull/13293) _(merged 2025-09-28)_
-- [FSUI: Fix regression allowing Save State load in Hardcore Mode via ESC menu](https://github.com/PCSX2/pcsx2/pull/13271) _(merged 2025-09-16)_
-- [Qt: Add option to start in Big Picture Mode from settings.](https://github.com/PCSX2/pcsx2/pull/12945) _(merged 2025-07-12)_
-- [FSUI: Add memory card creation dialog](https://github.com/PCSX2/pcsx2/pull/12944) _(merged 2025-07-12)_
-- [FSUI/GS: Fix Deadlock in Achievements Tab/GS Dump text](https://github.com/PCSX2/pcsx2/pull/13000) _(merged 2025-07-10)_
-- [OSD/Achievements: Add 9-position alignment options for Achievement notifications/popups, and OSD](https://github.com/PCSX2/pcsx2/pull/12953) _(merged 2025-07-08)_
-- [GS: Add hotkey for cycling TV shaders](https://github.com/PCSX2/pcsx2/pull/12954) _(merged 2025-07-06)_
-- [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
-- [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
-- [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
 
 ## [Gamr13/Gamr13.github.io](https://github.com/Gamr13/Gamr13.github.io)
 - [docs: remove unneeded images and change store link](https://github.com/Gamr13/Gamr13.github.io/pull/9) _(merged 2026-06-29)_
