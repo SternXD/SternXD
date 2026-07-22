@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **163**
+Total public PRs merged: **165**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Qt: Fix Optimal Frame Pacing not inheriting from global](https://github.com/PCSX2/pcsx2/pull/14744) _(merged 2026-07-21)_
 - [FullscreenUI: Fix nav loss after logging in to RA](https://github.com/PCSX2/pcsx2/pull/14709) _(merged 2026-07-16)_
 - [ImGui: Fix cut off legend in save state overlay](https://github.com/PCSX2/pcsx2/pull/14705) _(merged 2026-07-16)_
 - [FullscreenUI: QoL tweaks and achievements nav fixes](https://github.com/PCSX2/pcsx2/pull/14669) _(merged 2026-07-08)_
@@ -65,22 +66,8 @@ Total public PRs merged: **163**
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
 
-## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
-- [build: Update all deps to their latest versions](https://github.com/XboxEmulationHub/devmodewiki/pull/36) _(merged 2026-07-15)_
-- [docs: Add privacy policy for discord server bot](https://github.com/XboxEmulationHub/devmodewiki/pull/31) _(merged 2026-06-12)_
-- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
-- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
-- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
-- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
-- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
-- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
-- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
-- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
-- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
-- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
-- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
-
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Qt/Formats: Redesign card creation dialog and auto detect ECC](https://github.com/PCSX2/myMCpp/pull/89) _(merged 2026-07-21)_
 - [Qt: Fix native widget refresh glitch on GNOME Wayland](https://github.com/PCSX2/myMCpp/pull/87) _(merged 2026-07-14)_
 - [3rdparty: Update VMA to v3.4.0](https://github.com/PCSX2/myMCpp/pull/83) _(merged 2026-07-10)_
 - [Formats: Fix RLE decompression for Keroro icons](https://github.com/PCSX2/myMCpp/pull/82) _(merged 2026-07-08)_
@@ -132,6 +119,21 @@ Total public PRs merged: **163**
 - [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
+
+## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
+- [build: Update all deps to their latest versions](https://github.com/XboxEmulationHub/devmodewiki/pull/36) _(merged 2026-07-15)_
+- [docs: Add privacy policy for discord server bot](https://github.com/XboxEmulationHub/devmodewiki/pull/31) _(merged 2026-06-12)_
+- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
+- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
+- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
+- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
+- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
+- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
+- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
+- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
+- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
+- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
+- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
 
 ## [Gamr13/Gamr13.github.io](https://github.com/Gamr13/Gamr13.github.io)
 - [docs: remove unneeded images and change store link](https://github.com/Gamr13/Gamr13.github.io/pull/9) _(merged 2026-06-29)_
