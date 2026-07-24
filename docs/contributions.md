@@ -1,9 +1,16 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **165**
+Total public PRs merged: **166**
 
 ---
+
+## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+- [feat(app): Add Discord RPC support](https://github.com/StrikerX3/Ymir/pull/917) _(merged 2026-07-23)_
+- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
+- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
+- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
+- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [Qt: Fix Optimal Frame Pacing not inheriting from global](https://github.com/PCSX2/pcsx2/pull/14744) _(merged 2026-07-21)_
@@ -157,12 +164,6 @@ Total public PRs merged: **165**
 - [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
 - [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
 - [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
-
-## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
-- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
-- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
-- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
-- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
 - [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
