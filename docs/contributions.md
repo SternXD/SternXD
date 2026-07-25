@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **166**
+Total public PRs merged: **167**
 
 ---
 
@@ -13,6 +13,7 @@ Total public PRs merged: **166**
 - [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Qt/FullscreenUI: Settings consistency fixes](https://github.com/PCSX2/pcsx2/pull/14724) _(merged 2026-07-24)_
 - [Qt: Fix Optimal Frame Pacing not inheriting from global](https://github.com/PCSX2/pcsx2/pull/14744) _(merged 2026-07-21)_
 - [FullscreenUI: Fix nav loss after logging in to RA](https://github.com/PCSX2/pcsx2/pull/14709) _(merged 2026-07-16)_
 - [ImGui: Fix cut off legend in save state overlay](https://github.com/PCSX2/pcsx2/pull/14705) _(merged 2026-07-16)_
