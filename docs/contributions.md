@@ -1,18 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **167**
+Total public PRs merged: **169**
 
 ---
 
-## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
-- [feat(app): Add Discord RPC support](https://github.com/StrikerX3/Ymir/pull/917) _(merged 2026-07-23)_
-- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
-- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
-- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
-- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Close menus on resume, hide OSD while open](https://github.com/PCSX2/pcsx2/pull/14768) _(merged 2026-07-28)_
+- [3rdparty: Update rcheevos to v12.4.0](https://github.com/PCSX2/pcsx2/pull/14755) _(merged 2026-07-27)_
 - [Qt/FullscreenUI: Settings consistency fixes](https://github.com/PCSX2/pcsx2/pull/14724) _(merged 2026-07-24)_
 - [Qt: Fix Optimal Frame Pacing not inheriting from global](https://github.com/PCSX2/pcsx2/pull/14744) _(merged 2026-07-21)_
 - [FullscreenUI: Fix nav loss after logging in to RA](https://github.com/PCSX2/pcsx2/pull/14709) _(merged 2026-07-16)_
@@ -73,6 +68,13 @@ Total public PRs merged: **167**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+- [feat(app): Add Discord RPC support](https://github.com/StrikerX3/Ymir/pull/917) _(merged 2026-07-23)_
+- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
+- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
+- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
+- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
 - [Qt/Formats: Redesign card creation dialog and auto detect ECC](https://github.com/PCSX2/myMCpp/pull/89) _(merged 2026-07-21)_
