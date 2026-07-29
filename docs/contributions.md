@@ -1,7 +1,7 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **169**
+Total public PRs merged: **167**
 
 ---
 
@@ -167,10 +167,6 @@ Total public PRs merged: **169**
 - [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
 - [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
 - [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
-
-## [ARMSX2/armsx2-web](https://github.com/ARMSX2/armsx2-web)
-- [Remove Co-Founder section from Credits and center align project leads](https://github.com/ARMSX2/armsx2-web/pull/35) _(merged 2026-02-12)_
-- [fix(front): image scaling, component split, dynamic year, update wording](https://github.com/ARMSX2/armsx2-web/pull/4) _(merged 2025-10-20)_
 
 ## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
 - [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
