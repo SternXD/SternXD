@@ -1,9 +1,13 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **170**
+Total public PRs merged: **171**
 
 ---
+
+## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
+- [UWP: Purge Windows Mobile](https://github.com/hrydgard/ppsspp/pull/22068) _(merged 2026-08-10)_
+- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/hrydgard/ppsspp/pull/21100) _(merged 2026-01-04)_
 
 ## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
 - [docs: Update compiling mesa guide](https://github.com/XboxEmulationHub/devmodewiki/pull/42) _(merged 2026-08-08)_
@@ -177,9 +181,6 @@ Total public PRs merged: **170**
 ## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
 - [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
 - [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
-
-## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
-- [UWP: Migrate from C++/CX to C++/WinRT](https://github.com/hrydgard/ppsspp/pull/21100) _(merged 2026-01-04)_
 
 ## [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers)
 - [docs: Add ARMSX2 driver installation instructions and images to documentation](https://github.com/K11MCH1/AdrenoToolsDrivers/pull/63) _(merged 2025-11-19)_
