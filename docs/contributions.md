@@ -1,9 +1,17 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **171**
+Total public PRs merged: **172**
 
 ---
+
+## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+- [fix(app): Fix double scaling the UI on macOS](https://github.com/StrikerX3/Ymir/pull/925) _(merged 2026-08-14)_
+- [feat(app): Add Discord RPC support](https://github.com/StrikerX3/Ymir/pull/917) _(merged 2026-07-23)_
+- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
+- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
+- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
+- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
 - [UWP: Purge Windows Mobile](https://github.com/hrydgard/ppsspp/pull/22068) _(merged 2026-08-10)_
@@ -144,13 +152,6 @@ Total public PRs merged: **171**
 - [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
-
-## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
-- [feat(app): Add Discord RPC support](https://github.com/StrikerX3/Ymir/pull/917) _(merged 2026-07-23)_
-- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
-- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
-- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
-- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [Gamr13/Gamr13.github.io](https://github.com/Gamr13/Gamr13.github.io)
 - [docs: remove unneeded images and change store link](https://github.com/Gamr13/Gamr13.github.io/pull/9) _(merged 2026-06-29)_
