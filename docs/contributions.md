@@ -1,9 +1,18 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **174**
+Total public PRs merged: **175**
 
 ---
+
+## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+- [feat(gfx-mac): Implement Metal graphics renderer](https://github.com/StrikerX3/Ymir/pull/929) _(merged 2026-08-19)_
+- [fix(app): Fix double scaling the UI on macOS](https://github.com/StrikerX3/Ymir/pull/925) _(merged 2026-08-14)_
+- [feat(app): Add Discord RPC support](https://github.com/StrikerX3/Ymir/pull/917) _(merged 2026-07-23)_
+- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
+- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
+- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
+- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
 - [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
@@ -75,14 +84,6 @@ Total public PRs merged: **174**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
-
-## [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
-- [fix(app): Fix double scaling the UI on macOS](https://github.com/StrikerX3/Ymir/pull/925) _(merged 2026-08-14)_
-- [feat(app): Add Discord RPC support](https://github.com/StrikerX3/Ymir/pull/917) _(merged 2026-07-23)_
-- [ymir-sdl3/App: Refactor app into modular services](https://github.com/StrikerX3/Ymir/pull/897) _(merged 2026-06-12)_
-- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/StrikerX3/Ymir/pull/896) _(merged 2026-06-11)_
-- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/StrikerX3/Ymir/pull/895) _(merged 2026-06-11)_
-- [docs: Add privacy policy for mobile ports](https://github.com/StrikerX3/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
 - [UWP: Purge Windows Mobile](https://github.com/hrydgard/ppsspp/pull/22068) _(merged 2026-08-10)_
