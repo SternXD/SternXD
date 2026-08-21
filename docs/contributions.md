@@ -1,9 +1,21 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **177**
+Total public PRs merged: **179**
 
 ---
+
+## [ymir-emu/Ymir](https://github.com/ymir-emu/Ymir)
+- [fix(repo): Update links for new org](https://github.com/ymir-emu/Ymir/pull/934) _(merged 2026-08-20)_
+- [fix(app): Clean up emulator thread shutdown and audio sync](https://github.com/ymir-emu/Ymir/pull/933) _(merged 2026-08-20)_
+- [feat(gfx-mac): Implement Metal graphics renderer](https://github.com/ymir-emu/Ymir/pull/929) _(merged 2026-08-19)_
+- [fix(app): Remove uses of obsoleted ImGui APIs](https://github.com/ymir-emu/Ymir/pull/924) _(merged 2026-08-19)_
+- [fix(app): Fix double scaling the UI on macOS](https://github.com/ymir-emu/Ymir/pull/925) _(merged 2026-08-14)_
+- [feat(app): Add Discord RPC support](https://github.com/ymir-emu/Ymir/pull/917) _(merged 2026-07-23)_
+- [ymir-sdl3/App: Refactor app into modular services](https://github.com/ymir-emu/Ymir/pull/897) _(merged 2026-06-12)_
+- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/ymir-emu/Ymir/pull/896) _(merged 2026-06-11)_
+- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/ymir-emu/Ymir/pull/895) _(merged 2026-06-11)_
+- [docs: Add privacy policy for mobile ports](https://github.com/ymir-emu/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
 - [Build: Remove GCC from Linux builds](https://github.com/PCSX2/myMCpp/pull/97) _(merged 2026-08-19)_
@@ -60,16 +72,6 @@ Total public PRs merged: **177**
 - [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
-
-## [ymir-emu/Ymir](https://github.com/ymir-emu/Ymir)
-- [feat(gfx-mac): Implement Metal graphics renderer](https://github.com/ymir-emu/Ymir/pull/929) _(merged 2026-08-19)_
-- [fix(app): Remove uses of obsoleted ImGui APIs](https://github.com/ymir-emu/Ymir/pull/924) _(merged 2026-08-19)_
-- [fix(app): Fix double scaling the UI on macOS](https://github.com/ymir-emu/Ymir/pull/925) _(merged 2026-08-14)_
-- [feat(app): Add Discord RPC support](https://github.com/ymir-emu/Ymir/pull/917) _(merged 2026-07-23)_
-- [ymir-sdl3/App: Refactor app into modular services](https://github.com/ymir-emu/Ymir/pull/897) _(merged 2026-06-12)_
-- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/ymir-emu/Ymir/pull/896) _(merged 2026-06-11)_
-- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/ymir-emu/Ymir/pull/895) _(merged 2026-06-11)_
-- [docs: Add privacy policy for mobile ports](https://github.com/ymir-emu/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
 - [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
