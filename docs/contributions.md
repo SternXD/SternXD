@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **180**
+Total public PRs merged: **181**
 
 ---
 
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
+- [Formats/Qt/CLI: Switch memory card and save errors to Error](https://github.com/PCSX2/myMCpp/pull/100) _(merged 2026-08-30)_
 - [Qt: Fix save preview requiring two clicks](https://github.com/PCSX2/myMCpp/pull/98) _(merged 2026-08-28)_
 - [Build: Remove GCC from Linux builds](https://github.com/PCSX2/myMCpp/pull/97) _(merged 2026-08-19)_
 - [Qt: Multi select delete for saves and files](https://github.com/PCSX2/myMCpp/pull/95) _(merged 2026-08-02)_
