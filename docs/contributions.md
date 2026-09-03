@@ -1,9 +1,15 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **187**
+Total public PRs merged: **188**
 
 ---
+
+## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
+- [Blog (2.8): Fix installer comparison slider sizing & replace lossy images with lossless WebP](https://github.com/PCSX2/pcsx2-net-www/pull/552) _(merged 2026-09-02)_
+- [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
+- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
+- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
 
 ## [PCSX2/pcsx2-windows-dependencies](https://github.com/PCSX2/pcsx2-windows-dependencies)
 - [CI: Update runner to windows-2025-vs2026 and checkout action to v7](https://github.com/PCSX2/pcsx2-windows-dependencies/pull/7) _(merged 2026-09-01)_
@@ -164,11 +170,6 @@ Total public PRs merged: **187**
 - [SCSP/M68K: Threaded SCSP and M68K](https://github.com/ymir-emu/Ymir/pull/896) _(merged 2026-06-11)_
 - [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/ymir-emu/Ymir/pull/895) _(merged 2026-06-11)_
 - [docs: Add privacy policy for mobile ports](https://github.com/ymir-emu/Ymir/pull/732) _(merged 2026-01-26)_
-
-## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
-- [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
-- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
-- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
 
 ## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
 - [UWP: Purge Windows Mobile](https://github.com/hrydgard/ppsspp/pull/22068) _(merged 2026-08-10)_
