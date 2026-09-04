@@ -1,20 +1,14 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **188**
+Total public PRs merged: **191**
 
 ---
 
-## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
-- [Blog (2.8): Fix installer comparison slider sizing & replace lossy images with lossless WebP](https://github.com/PCSX2/pcsx2-net-www/pull/552) _(merged 2026-09-02)_
-- [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
-- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
-- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
-
-## [PCSX2/pcsx2-windows-dependencies](https://github.com/PCSX2/pcsx2-windows-dependencies)
-- [CI: Update runner to windows-2025-vs2026 and checkout action to v7](https://github.com/PCSX2/pcsx2-windows-dependencies/pull/7) _(merged 2026-09-01)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [Achievements: Fix deadlock when enabling achievements in FullscreenUI](https://github.com/PCSX2/pcsx2/pull/14900) _(merged 2026-09-03)_
+- [EE/Rec: Move opcode defs to common header](https://github.com/PCSX2/pcsx2/pull/14888) _(merged 2026-09-03)_
+- [3rdparty/imgui: Update to v1.92.9b](https://github.com/PCSX2/pcsx2/pull/14767) _(merged 2026-09-03)_
 - [Deps: Always build FFmpeg on Windows](https://github.com/PCSX2/pcsx2/pull/14895) _(merged 2026-09-01)_
 - [Qt/FullscreenUI: Add missing setting descriptions and align text for both UIs](https://github.com/PCSX2/pcsx2/pull/14886) _(merged 2026-08-31)_
 - [GS: Output BGCOLOR when both display circuits are disabled](https://github.com/PCSX2/pcsx2/pull/14715) _(merged 2026-08-31)_
@@ -82,6 +76,15 @@ Total public PRs merged: **188**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
+- [Blog (2.8): Fix installer comparison slider sizing & replace lossy images with lossless WebP](https://github.com/PCSX2/pcsx2-net-www/pull/552) _(merged 2026-09-02)_
+- [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
+- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
+- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
+
+## [PCSX2/pcsx2-windows-dependencies](https://github.com/PCSX2/pcsx2-windows-dependencies)
+- [CI: Update runner to windows-2025-vs2026 and checkout action to v7](https://github.com/PCSX2/pcsx2-windows-dependencies/pull/7) _(merged 2026-09-01)_
 
 ## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
 - [docs: Update XBSX2 guide](https://github.com/XboxEmulationHub/devmodewiki/pull/48) _(merged 2026-09-01)_
