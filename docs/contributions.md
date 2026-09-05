@@ -1,9 +1,40 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **191**
+Total public PRs merged: **193**
 
 ---
+
+## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
+- [docs: update XEHBot privacy policy](https://github.com/XboxEmulationHub/devmodewiki/pull/49) _(merged 2026-09-04)_
+- [docs: Update XBSX2 guide](https://github.com/XboxEmulationHub/devmodewiki/pull/48) _(merged 2026-09-01)_
+- [docs: Update compiling mesa guide](https://github.com/XboxEmulationHub/devmodewiki/pull/42) _(merged 2026-08-08)_
+- [build: Update all deps to their latest versions](https://github.com/XboxEmulationHub/devmodewiki/pull/36) _(merged 2026-07-15)_
+- [docs: Add privacy policy for discord server bot](https://github.com/XboxEmulationHub/devmodewiki/pull/31) _(merged 2026-06-12)_
+- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
+- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
+- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
+- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
+- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
+- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
+- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
+- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
+- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
+- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
+- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
+
+## [ymir-emu/Ymir](https://github.com/ymir-emu/Ymir)
+- [fix(build): Fix HLSL depfile generation for Visual Studio generator](https://github.com/ymir-emu/Ymir/pull/944) _(merged 2026-09-04)_
+- [fix(repo): Update links for new org](https://github.com/ymir-emu/Ymir/pull/934) _(merged 2026-08-20)_
+- [fix(app): Clean up emulator thread shutdown and audio sync](https://github.com/ymir-emu/Ymir/pull/933) _(merged 2026-08-20)_
+- [feat(gfx-mac): Implement Metal graphics renderer](https://github.com/ymir-emu/Ymir/pull/929) _(merged 2026-08-19)_
+- [fix(app): Remove uses of obsoleted ImGui APIs](https://github.com/ymir-emu/Ymir/pull/924) _(merged 2026-08-19)_
+- [fix(app): Fix double scaling the UI on macOS](https://github.com/ymir-emu/Ymir/pull/925) _(merged 2026-08-14)_
+- [feat(app): Add Discord RPC support](https://github.com/ymir-emu/Ymir/pull/917) _(merged 2026-07-23)_
+- [ymir-sdl3/App: Refactor app into modular services](https://github.com/ymir-emu/Ymir/pull/897) _(merged 2026-06-12)_
+- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/ymir-emu/Ymir/pull/896) _(merged 2026-06-11)_
+- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/ymir-emu/Ymir/pull/895) _(merged 2026-06-11)_
+- [docs: Add privacy policy for mobile ports](https://github.com/ymir-emu/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [Achievements: Fix deadlock when enabling achievements in FullscreenUI](https://github.com/PCSX2/pcsx2/pull/14900) _(merged 2026-09-03)_
@@ -86,23 +117,6 @@ Total public PRs merged: **191**
 ## [PCSX2/pcsx2-windows-dependencies](https://github.com/PCSX2/pcsx2-windows-dependencies)
 - [CI: Update runner to windows-2025-vs2026 and checkout action to v7](https://github.com/PCSX2/pcsx2-windows-dependencies/pull/7) _(merged 2026-09-01)_
 
-## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
-- [docs: Update XBSX2 guide](https://github.com/XboxEmulationHub/devmodewiki/pull/48) _(merged 2026-09-01)_
-- [docs: Update compiling mesa guide](https://github.com/XboxEmulationHub/devmodewiki/pull/42) _(merged 2026-08-08)_
-- [build: Update all deps to their latest versions](https://github.com/XboxEmulationHub/devmodewiki/pull/36) _(merged 2026-07-15)_
-- [docs: Add privacy policy for discord server bot](https://github.com/XboxEmulationHub/devmodewiki/pull/31) _(merged 2026-06-12)_
-- [docs: Update ram limit number](https://github.com/XboxEmulationHub/devmodewiki/pull/21) _(merged 2026-05-12)_
-- [docs: Add compiling SDL3 guide and cleanup](https://github.com/XboxEmulationHub/devmodewiki/pull/19) _(merged 2026-05-11)_
-- [docs: Update mesa command to latest version available right now](https://github.com/XboxEmulationHub/devmodewiki/pull/18) _(merged 2026-05-11)_
-- [Revert "chore: Rename LICENSE to LICENSE.md"](https://github.com/XboxEmulationHub/devmodewiki/pull/17) _(merged 2026-05-11)_
-- [docs: Add all guides from EmulationRevival site](https://github.com/XboxEmulationHub/devmodewiki/pull/14) _(merged 2026-05-10)_
-- [chore: various updates](https://github.com/XboxEmulationHub/devmodewiki/pull/13) _(merged 2026-05-10)_
-- [docs: Make PPSSPP Guide more clear](https://github.com/XboxEmulationHub/devmodewiki/pull/12) _(merged 2026-03-11)_
-- [Docs: Add hyperlink to Xbox Dev Store](https://github.com/XboxEmulationHub/devmodewiki/pull/11) _(merged 2026-02-25)_
-- [chore: Fix up some stuff and rewrite XBSX2 build guide](https://github.com/XboxEmulationHub/devmodewiki/pull/8) _(merged 2026-02-17)_
-- [wiki: Replace placeholder logos new logo format and update favicon](https://github.com/XboxEmulationHub/devmodewiki/pull/5) _(merged 2025-09-25)_
-- [wiki: Add admonitions for all guides](https://github.com/XboxEmulationHub/devmodewiki/pull/3) _(merged 2025-09-24)_
-
 ## [PCSX2/myMCpp](https://github.com/PCSX2/myMCpp)
 - [Formats: Match repo code style and naming](https://github.com/PCSX2/myMCpp/pull/102) _(merged 2026-08-31)_
 - [Formats/Qt/CLI: Switch memory card and save errors to Error](https://github.com/PCSX2/myMCpp/pull/100) _(merged 2026-08-30)_
@@ -161,18 +175,6 @@ Total public PRs merged: **191**
 - [Qt: Build fixes](https://github.com/PCSX2/myMCpp/pull/4) _(merged 2025-12-21)_
 - [Qt: implement theming system and refactor settings](https://github.com/PCSX2/myMCpp/pull/3) _(merged 2025-12-21)_
 - [translations: sync Crowdin translations](https://github.com/PCSX2/myMCpp/pull/2) _(merged 2025-12-20)_
-
-## [ymir-emu/Ymir](https://github.com/ymir-emu/Ymir)
-- [fix(repo): Update links for new org](https://github.com/ymir-emu/Ymir/pull/934) _(merged 2026-08-20)_
-- [fix(app): Clean up emulator thread shutdown and audio sync](https://github.com/ymir-emu/Ymir/pull/933) _(merged 2026-08-20)_
-- [feat(gfx-mac): Implement Metal graphics renderer](https://github.com/ymir-emu/Ymir/pull/929) _(merged 2026-08-19)_
-- [fix(app): Remove uses of obsoleted ImGui APIs](https://github.com/ymir-emu/Ymir/pull/924) _(merged 2026-08-19)_
-- [fix(app): Fix double scaling the UI on macOS](https://github.com/ymir-emu/Ymir/pull/925) _(merged 2026-08-14)_
-- [feat(app): Add Discord RPC support](https://github.com/ymir-emu/Ymir/pull/917) _(merged 2026-07-23)_
-- [ymir-sdl3/App: Refactor app into modular services](https://github.com/ymir-emu/Ymir/pull/897) _(merged 2026-06-12)_
-- [SCSP/M68K: Threaded SCSP and M68K](https://github.com/ymir-emu/Ymir/pull/896) _(merged 2026-06-11)_
-- [SH-2/ImGui: Add SH-2 overclocking support](https://github.com/ymir-emu/Ymir/pull/895) _(merged 2026-06-11)_
-- [docs: Add privacy policy for mobile ports](https://github.com/ymir-emu/Ymir/pull/732) _(merged 2026-01-26)_
 
 ## [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
 - [UWP: Purge Windows Mobile](https://github.com/hrydgard/ppsspp/pull/22068) _(merged 2026-08-10)_
