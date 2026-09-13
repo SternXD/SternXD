@@ -1,18 +1,18 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **195**
+Total public PRs merged: **197**
 
 ---
 
-## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
-- [Docs: Update Windows build guide for Visual Studio 2022 and .slnx](https://github.com/PCSX2/pcsx2-net-www/pull/557) _(merged 2026-09-11)_
-- [Blog (2.8): Fix installer comparison slider sizing & replace lossy images with lossless WebP](https://github.com/PCSX2/pcsx2-net-www/pull/552) _(merged 2026-09-02)_
-- [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
-- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
-- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
+## [SideStore/SideStore](https://github.com/SideStore/SideStore)
+- [[skip ci] AGENTS.md: Add agent guidelines](https://github.com/SideStore/SideStore/pull/1540) _(merged 2026-09-13)_
+- [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
+- [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
+- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [AGENTS.md: Update agent guidelines](https://github.com/PCSX2/pcsx2/pull/14944) _(merged 2026-09-13)_
 - [MSBuild: Replace .sln with new .slnx format](https://github.com/PCSX2/pcsx2/pull/14925) _(merged 2026-09-11)_
 - [Achievements: Fix deadlock when enabling achievements in FullscreenUI](https://github.com/PCSX2/pcsx2/pull/14900) _(merged 2026-09-03)_
 - [EE/Rec: Move opcode defs to common header](https://github.com/PCSX2/pcsx2/pull/14888) _(merged 2026-09-03)_
@@ -84,6 +84,13 @@ Total public PRs merged: **195**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
+- [Docs: Update Windows build guide for Visual Studio 2022 and .slnx](https://github.com/PCSX2/pcsx2-net-www/pull/557) _(merged 2026-09-11)_
+- [Blog (2.8): Fix installer comparison slider sizing & replace lossy images with lossless WebP](https://github.com/PCSX2/pcsx2-net-www/pull/552) _(merged 2026-09-02)_
+- [Docs: Fix typo for macOS support in requirements](https://github.com/PCSX2/pcsx2-net-www/pull/543) _(merged 2026-08-18)_
+- [docs: Update GS dump runner build instructions](https://github.com/PCSX2/pcsx2-net-www/pull/515) _(merged 2026-06-29)_
+- [Docs: Add Arch package list for building PCSX2](https://github.com/PCSX2/pcsx2-net-www/pull/483) _(merged 2026-02-04)_
 
 ## [XboxEmulationHub/devmodewiki](https://github.com/XboxEmulationHub/devmodewiki)
 - [docs: update XEHBot privacy policy](https://github.com/XboxEmulationHub/devmodewiki/pull/49) _(merged 2026-09-04)_
@@ -195,11 +202,6 @@ Total public PRs merged: **195**
 - [UWP/WinRT: Fix XInput controller detection for late-arriving controllers](https://github.com/libretro/RetroArch/pull/18282) _(merged 2025-09-24)_
 - [UWP: Update x64 ANGLE Binaries](https://github.com/libretro/RetroArch/pull/17681) _(merged 2025-03-13)_
 - [UWP: Update invalid pfx key](https://github.com/libretro/RetroArch/pull/17679) _(merged 2025-03-13)_
-
-## [SideStore/SideStore](https://github.com/SideStore/SideStore)
-- [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
-- [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
-- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
 - [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
