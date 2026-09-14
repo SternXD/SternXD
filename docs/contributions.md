@@ -1,17 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **197**
+Total public PRs merged: **200**
 
 ---
 
-## [SideStore/SideStore](https://github.com/SideStore/SideStore)
-- [[skip ci] AGENTS.md: Add agent guidelines](https://github.com/SideStore/SideStore/pull/1540) _(merged 2026-09-13)_
-- [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
-- [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
-- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
-
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [FullscreenUI: Add media capture settings and recording toggle](https://github.com/PCSX2/pcsx2/pull/14949) _(merged 2026-09-14)_
 - [AGENTS.md: Update agent guidelines](https://github.com/PCSX2/pcsx2/pull/14944) _(merged 2026-09-13)_
 - [MSBuild: Replace .sln with new .slnx format](https://github.com/PCSX2/pcsx2/pull/14925) _(merged 2026-09-11)_
 - [Achievements: Fix deadlock when enabling achievements in FullscreenUI](https://github.com/PCSX2/pcsx2/pull/14900) _(merged 2026-09-03)_
@@ -84,6 +79,14 @@ Total public PRs merged: **197**
 - [FSUI: Add Save State Incompatible Warning](https://github.com/PCSX2/pcsx2/pull/12763) _(merged 2025-06-29)_
 - [SaveState: Improve version incompatibility error message](https://github.com/PCSX2/pcsx2/pull/12754) _(merged 2025-06-29)_
 - [FSUI: Add RetroAchievements login dialog](https://github.com/PCSX2/pcsx2/pull/12740) _(merged 2025-06-29)_
+
+## [SideStore/SideStore](https://github.com/SideStore/SideStore)
+- [fix(ui): use dynamic device services naming in onboarding](https://github.com/SideStore/SideStore/pull/1548) _(merged 2026-09-13)_
+- [feat(ui): Rewrite splash screen in SwiftUI and add first launch onboarding](https://github.com/SideStore/SideStore/pull/1546) _(merged 2026-09-13)_
+- [[skip ci] AGENTS.md: Add agent guidelines](https://github.com/SideStore/SideStore/pull/1540) _(merged 2026-09-13)_
+- [CI: fix first-interaction inputs and permissions](https://github.com/SideStore/SideStore/pull/1348) _(merged 2026-06-22)_
+- [GitHub: add triage workflow and labeler config](https://github.com/SideStore/SideStore/pull/1346) _(merged 2026-06-21)_
+- [fix(#703): Allow `mobiledevicepair` extension for pairing](https://github.com/SideStore/SideStore/pull/974) _(merged 2026-05-09)_
 
 ## [PCSX2/pcsx2-net-www](https://github.com/PCSX2/pcsx2-net-www)
 - [Docs: Update Windows build guide for Visual Studio 2022 and .slnx](https://github.com/PCSX2/pcsx2-net-www/pull/557) _(merged 2026-09-11)_
