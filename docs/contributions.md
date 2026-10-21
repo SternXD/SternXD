@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **213**
+Total public PRs merged: **214**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [3rdparty/imgui: Update to v1.93.0](https://github.com/PCSX2/pcsx2/pull/15086) _(merged 2026-10-21)_
 - [GameList: Add favorites to game list](https://github.com/PCSX2/pcsx2/pull/15030) _(merged 2026-10-06)_
 - [Achievements: Fix offline unlocks not retrying on reconnect](https://github.com/PCSX2/pcsx2/pull/15033) _(merged 2026-10-04)_
 - [GS:MTL: Flush clears in DoMerge](https://github.com/PCSX2/pcsx2/pull/15026) _(merged 2026-09-29)_
