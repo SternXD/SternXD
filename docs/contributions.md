@@ -1,9 +1,14 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **215**
+Total public PRs merged: **216**
 
 ---
+
+## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
+- [wiki: Add missing device portal api endpoints](https://github.com/xboxoneresearch/wiki/pull/146) _(merged 2026-11-02)_
+- [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
+- [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
 - [GS/Achievements/FullscreenUI: Various changes](https://github.com/PCSX2/pcsx2/pull/15082) _(merged 2026-10-23)_
@@ -225,10 +230,6 @@ Total public PRs merged: **215**
 
 ## [Kenix3/libultraship](https://github.com/Kenix3/libultraship)
 - [Mobile: Update deps for Android/iOS and add Android CI](https://github.com/Kenix3/libultraship/pull/966) _(merged 2026-02-01)_
-
-## [xboxoneresearch/wiki](https://github.com/xboxoneresearch/wiki)
-- [(chore:) Update compiling for Xbox Requirements](https://github.com/xboxoneresearch/wiki/pull/125) _(merged 2026-01-12)_
-- [[DOCS] Add SYSTEM shell access documentation to Artiface page](https://github.com/xboxoneresearch/wiki/pull/99) _(merged 2024-07-23)_
 
 ## [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers)
 - [docs: Add ARMSX2 driver installation instructions and images to documentation](https://github.com/K11MCH1/AdrenoToolsDrivers/pull/63) _(merged 2025-11-19)_
