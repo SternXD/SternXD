@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **218**
+Total public PRs merged: **219**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [GS:DX12: Skip render passes on Tier 0 GPUs](https://github.com/PCSX2/pcsx2/pull/15134) _(merged 2026-11-10)_
 - [EE/microVU: Fix and port profilers to x64](https://github.com/PCSX2/pcsx2/pull/15155) _(merged 2026-11-09)_
 - [GS/Achievements/FullscreenUI: Various changes](https://github.com/PCSX2/pcsx2/pull/15082) _(merged 2026-10-23)_
 - [3rdparty/imgui: Update to v1.93.0](https://github.com/PCSX2/pcsx2/pull/15086) _(merged 2026-10-21)_
