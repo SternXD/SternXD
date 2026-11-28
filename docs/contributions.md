@@ -1,11 +1,12 @@
 # Contributions
 
 This page is automatically updated with all **public** merged pull requests by [@SternXD](https://github.com/SternXD).
-Total public PRs merged: **223**
+Total public PRs merged: **224**
 
 ---
 
 ## [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2)
+- [GS:MTL: Fix -Wnontrivial-memcall warnings](https://github.com/PCSX2/pcsx2/pull/15244) _(merged 2026-11-27)_
 - [EE:Rec/microVU: Fix unaligned LWR and FBRST ordering](https://github.com/PCSX2/pcsx2/pull/15213) _(merged 2026-11-26)_
 - [Qt/FullscreenUI: Correct Apple Game Controller and MFi capitalization](https://github.com/PCSX2/pcsx2/pull/15218) _(merged 2026-11-23)_
 - [Deps: Update AgilitySDK to 1.620.2](https://github.com/PCSX2/pcsx2/pull/15132) _(merged 2026-11-21)_
